@@ -1,0 +1,83 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: c2e18b9f-8db3-47a8-a889-0d1ed9c624b2
+entity_type: node
+bundle: page
+base_fields:
+  title: 'Enamel Powder Coating Line – Ultra-Durable Industrial Finishing for Metal Surfaces'
+  status: true
+  langcode: en
+  created: '1774077491'
+  author: null
+  revision_log_message: null
+  revision_uid: '1'
+  menu_link:
+    uuid: 1e02ec75-c9f5-4bf1-88a5-5b54ec073f87
+    entity_type: menu_link_content
+    bundle: menu_link_content
+    base_fields:
+      title: 'Enamel powder'
+      enabled: true
+      expanded: false
+      langcode: en
+      menu_name: main
+      description: 'Enamel coating but with powder coat'
+      link:
+        -
+          uri: 'entity:node/c2e18b9f-8db3-47a8-a889-0d1ed9c624b2'
+          title: null
+          options: {  }
+          entity:
+            uuid: c2e18b9f-8db3-47a8-a889-0d1ed9c624b2
+            entity_type: node
+            base_fields:
+              title: 'Enamel Powder Coating Line – Ultra-Durable Industrial Finishing for Metal Surfaces'
+              status: true
+              langcode: en
+              created: '1774077491'
+              author: null
+              revision_log_message: null
+              revision_uid: '1'
+              url: /enamel-powdercoat
+            bundle: page
+      weight: -44
+      parent:
+        uuid: ae96a7de-31ef-4c64-9e5c-f1eaec40b233
+        entity_type: menu_link_content
+        bundle: menu_link_content
+        base_fields:
+          title: 'Powdercoat Eq'
+          enabled: true
+          expanded: true
+          langcode: en
+          menu_name: main
+          description: null
+          link:
+            -
+              uri: 'entity:node/eb741f6f-3310-4ed2-8163-955b0e9fc2a2'
+              title: ''
+              options: {  }
+              entity:
+                uuid: eb741f6f-3310-4ed2-8163-955b0e9fc2a2
+                entity_type: node
+                base_fields:
+                  title: 'Powder coating equipment for sale'
+                  status: true
+                  langcode: en
+                  created: '1749016356'
+                  author: null
+                  revision_log_message: null
+                  revision_uid: '1'
+                  url: /powdercoat-equipment
+                bundle: page
+          weight: -48
+          parent: ''
+        custom_fields: {  }
+    custom_fields: {  }
+  url: /enamel-powdercoat
+custom_fields:
+  body:
+    -
+      value: '<div class="container py-5"><!-- HERO --><div class="text-center mb-5"><h2 class="fw-bold">Enamel Powder Coating Systems for High-Durability Industrial Finishing</h2><p class="lead text-muted">Combine the strength of metal with the durability of glass-like enamel coatings using advanced electrostatic powder technology.</p><p><a class="btn btn-primary btn-lg mt-3" href="/contact">Request Enamel Coating Line</a></p></div><!-- META --><div class="d-none"><meta name="description" content="Enamel powder coating line systems for industrial metal finishing. Durable, chemical-resistant, VOC-free coating with high adhesion and long service life."></div><!-- INTRO --><div class="row align-items-center mb-5"><div class="col-md-6"><img class="img-fluid rounded-4 shadow-sm" src="/p10/7.webp" alt="Enameled sheet steel industrial coating process durable surface" loading="lazy"></div><div class="col-md-6"><h3>What is Enamel Powder Coating?</h3><p>Enamel powder coating is a dry finishing process where electrostatically charged powder forms a hard, glass-like coating after curing. It delivers exceptional durability, chemical resistance, and long service life.</p><ul><li>Glass-like hardness with metal strength</li><li>Extreme durability and abrasion resistance</li><li>Hygienic, easy-to-clean surfaces</li></ul></div></div><!-- BENEFITS --><div class="row text-center mb-5"><div class="col-md-3"><div class="p-4 border rounded-4"><h5>Durability</h5><p>Withstands chemicals, UV, and impact.</p></div></div><div class="col-md-3"><div class="p-4 border rounded-4"><h5>High Adhesion</h5><p>Electrostatic bonding ensures strong coating.</p></div></div><div class="col-md-3"><div class="p-4 border rounded-4"><h5>Eco-Friendly</h5><p>No VOCs, recyclable powder.</p></div></div><div class="col-md-3"><div class="p-4 border rounded-4"><h5>High Efficiency</h5><p>Up to 5 m/min production speed.</p></div></div></div><!-- PROCESS --><div class="bg-light p-5 rounded-4 mb-5"><h3 class="text-center mb-4">Enamel Powder Coating Process</h3><div class="row g-4"><div class="col-md-3"><strong>1. Application</strong><br>Electrostatic spray deposition</div><div class="col-md-3"><strong>2. Curing</strong><br>High-temp oven cross-linking</div><div class="col-md-3"><strong>3. Cooling</strong><br>Controlled cooling phase</div><div class="col-md-3"><strong>4. Inspection</strong><br>Quality control &amp; finish check</div></div></div><!-- SYSTEM COMPONENTS --><div class="row mb-5"><div class="col-md-4"><h4>Core Equipment</h4><ul><li>Spray booth (sealed system)</li><li>Electrostatic powder guns</li><li>Curing oven</li><li>Conveyor &amp; recovery system</li></ul></div><div class="col-md-4"><h4>Performance Features</h4><ul><li>No pretreatment needed for oily parts</li><li>Special plastic booths</li><li>Turnkey delivery systems</li></ul></div><div class="col-md-4"><h4>Industries</h4><ul><li>Automotive</li><li>Appliances</li><li>Construction</li><li>Industrial equipment</li></ul></div></div><!-- ADVANCED --><div class="row mb-5"><div class="col-md-6"><h4>Technical Advantages</h4><ul><li>60–80% transfer efficiency</li><li>Uniform coating thickness</li><li>High corrosion resistance</li><li>Temperature resistance up to 200°C</li></ul></div><div class="col-md-6"><h4>Economic Benefits</h4><ul><li>95–98% material utilization</li><li>Lower labor costs</li><li>Reduced waste</li></ul></div></div><!-- COMPARISON --><div class="mb-5"><h3 class="text-center mb-4">Enamel Powder vs Traditional Coatings</h3><div class="table-responsive"><table class="table text-center"><thead><tr><th>&nbsp;</th><th>Powder</th><th>Liquid</th></tr></thead><tbody><tr><td>Durability</td><td>Excellent</td><td>Good</td></tr><tr><td>VOC</td><td>None</td><td>High</td></tr><tr><td>Efficiency</td><td>High</td><td>Medium</td></tr></tbody></table></div></div><!-- CTA --><div class="text-center bg-dark text-white p-5 rounded-4"><h3>Upgrade to Enamel Powder Coating</h3><p>Get a durable, high-performance coating solution for your production line.</p><p><a class="btn btn-primary btn-lg" href="/contact">Get Technical Details</a></p></div></div>'
+      summary: ''
+      format: full_html
+      embed_entities: {  }

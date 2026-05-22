@@ -1,0 +1,83 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: eaa09208-062f-442e-b325-ee1166b52837
+entity_type: node
+bundle: page
+base_fields:
+  title: 'Buy Powder Coating Spray Gun Machines – Durable & Efficient'
+  status: true
+  langcode: en
+  created: '1745465146'
+  author: null
+  revision_log_message: null
+  revision_uid: '1'
+  menu_link:
+    uuid: 1a297b42-5c0d-4c9a-9d4d-6985a7bf3546
+    entity_type: menu_link_content
+    bundle: menu_link_content
+    base_fields:
+      title: 'Special spray gun'
+      enabled: true
+      expanded: false
+      langcode: en
+      menu_name: main
+      description: null
+      link:
+        -
+          uri: 'entity:node/eaa09208-062f-442e-b325-ee1166b52837'
+          title: null
+          options: {  }
+          entity:
+            uuid: eaa09208-062f-442e-b325-ee1166b52837
+            entity_type: node
+            base_fields:
+              title: 'Buy Powder Coating Spray Gun Machines – Durable & Efficient'
+              status: true
+              langcode: en
+              created: '1745465146'
+              author: null
+              revision_log_message: null
+              revision_uid: '1'
+              url: /powder-coating-machine
+            bundle: page
+      weight: -43
+      parent:
+        uuid: ae96a7de-31ef-4c64-9e5c-f1eaec40b233
+        entity_type: menu_link_content
+        bundle: menu_link_content
+        base_fields:
+          title: 'Powdercoat Eq'
+          enabled: true
+          expanded: true
+          langcode: en
+          menu_name: main
+          description: null
+          link:
+            -
+              uri: 'entity:node/eb741f6f-3310-4ed2-8163-955b0e9fc2a2'
+              title: ''
+              options: {  }
+              entity:
+                uuid: eb741f6f-3310-4ed2-8163-955b0e9fc2a2
+                entity_type: node
+                base_fields:
+                  title: 'Powder coating equipment for sale'
+                  status: true
+                  langcode: en
+                  created: '1749016356'
+                  author: null
+                  revision_log_message: null
+                  revision_uid: '1'
+                  url: /powdercoat-equipment
+                bundle: page
+          weight: -48
+          parent: ''
+        custom_fields: {  }
+    custom_fields: {  }
+  url: /powder-coating-machine
+custom_fields:
+  body:
+    -
+      value: "<div class=\"container py-5\"><!-- HERO --><div class=\"text-center mb-5\"><h2 class=\"fw-bold\">Powder Coating Spray Guns – High Performance &amp; Best Price in UAE</h2><p class=\"lead text-muted\">Achieve perfect coating results, reduce powder waste, and increase productivity with advanced electrostatic spray gun technology.</p><p><a class=\"btn btn-primary btn-lg mt-3\" href=\"/contact\">Request Price &amp; Live Demo</a></p></div><!-- META --><div class=\"d-none\"><meta name=\"description\" content=\"Powder coating spray guns UAE. Best price-performance systems with high transfer efficiency, better corner coating and low spare part costs.\"></div><!-- TRUST / OFFER --><div class=\"row mb-5\"><div class=\"col-md-8\"><div class=\"p-4 bg-primary text-white rounded-4\"><h3>Exclusive Spray Gun Technology (GCC)</h3><p>High-performance coating even in difficult areas like Faraday cages.</p><ul><li>Better corner penetration</li><li>Uniform coating thickness</li><li>Reduced powder consumption</li></ul></div></div><div class=\"col-md-4\"><div class=\"p-4 border rounded-4\"><h5>Client Feedback</h5><p><em>\"Performance is fantastic – even difficult areas can be coated easily.\"</em></p></div></div></div><!-- BENEFITS VS COMPETITION --><div class=\"row g-4 mb-5\"><div class=\"col-md-6\"><div class=\"card h-100 shadow rounded-4\"><div class=\"card-body\"><h4 class=\"text-success\">Why Buy From Us</h4><ul><li>No overpaying</li><li>High coating quality</li><li>Lower spare part costs</li><li>Easy operation</li></ul></div></div></div><div class=\"col-md-6\"><div class=\"card h-100 shadow rounded-4\"><div class=\"card-body\"><h4 class=\"text-danger\">Competitor Problems</h4><ul><li>Higher purchase cost</li><li>Difficult corner coating</li><li>Hidden service costs</li><li>Expensive spare parts</li></ul></div></div></div></div><!-- TECHNOLOGY --><div class=\"bg-light p-5 rounded-4 mb-5\"><h3 class=\"text-center mb-4\">Patented Spray Technology Advantages</h3><ul><li>High powder coverage – saves time &amp; money</li><li>Automatic spraying reduces labor cost</li><li>Uniform coating on complex parts</li><li>Easy parameter control (kV &amp; µA)</li></ul></div><!-- PRICE CTA --><div class=\"text-center mb-5\"><p><a class=\"btn btn-outline-primary btn-lg\" href=\"#\">View Price Comparison</a></p><p class=\"text-muted mt-2\">Compare total cost over 5 years, not only purchase price</p></div><!-- PRODUCT TYPES --><div class=\"row g-4 mb-5\"><div class=\"col-md-4\"><div class=\"card h-100\"><img src=\"/p15/21.webp\" alt=\"Manual powder coating spray gun industrial system\" width=\"470\" height=\"584\" loading=\"lazy\"><div class=\"card-body\"><h5>Manual Spray Guns</h5><p>Flexible solutions for various applications.</p></div></div></div><div class=\"col-md-4\"><div class=\"card h-100\"><img src=\"/p15/22.webp\" alt=\"Touchscreen powder coating spray gun box feed system\" width=\"472\" height=\"582\" loading=\"lazy\"><div class=\"card-body\"><h5>Touchscreen Control Systems</h5><p>Advanced control for precision coating.</p></div></div></div><div class=\"col-md-4\"><div class=\"card h-100\"><img src=\"/sites/default/files/inline-images/digitalspraygun.png\" alt=\"Digital powder coating spray gun professional system\" width=\"368\" height=\"578\" loading=\"lazy\"><div class=\"card-body\"><h5>Digital Spray Guns</h5><p>High efficiency and consistent performance.</p></div></div></div></div><!-- APPLICATIONS --><div class=\"row g-4 mb-5\"><div class=\"col-md-4 text-center\"><img class=\"img-fluid rounded\" src=\"/p15/automatic.jpg\" alt=\"Automatic powder coating spray gun industrial production line\" width=\"616\" height=\"546\" loading=\"lazy\"><p>Automatic systems for high productivity</p></div><div class=\"col-md-4 text-center\"><img class=\"img-fluid rounded\" src=\"/p15/16.webp\" alt=\"Hopper powder coating spray gun system\" width=\"720\" height=\"536\" loading=\"lazy\"><p>Hopper systems for continuous operation</p></div><div class=\"col-md-4 text-center\"><img class=\"img-fluid rounded\" src=\"/p15/17.webp\" alt=\"Powder coating spray gun testing application system\" width=\"569\" height=\"720\" loading=\"lazy\"><p>Testing &amp; sample coating solutions</p></div></div><!-- BUYER GUIDE --><div class=\"bg-light p-5 rounded-4 mb-5\"><h3 class=\"text-center mb-4\">How to Choose the Right Spray Gun</h3><ul><li>Type: manual vs automatic</li><li>Powder delivery system (hopper, box feed)</li><li>Control system (basic vs digital)</li><li>Spare parts availability</li></ul></div><!-- CTA FINAL --><div class=\"text-center bg-dark text-white p-5 rounded-4\"><h3>Ready to Upgrade Your Coating Process?</h3><p>Contact us today for pricing, demo and technical consultation.</p><p><a class=\"btn btn-primary btn-lg\" href=\"/contact\">Get Offer Now</a></p></div></div><div class=\"container py-5\"><h2 class=\"text-center mb-4\">Powder Coating Spray Gun Performance – Real Demonstration</h2><p class=\"text-center text-muted mb-5\">See how our spray guns outperform competitors in real industrial applications.</p><div class=\"row g-4\"><!-- VIDEO 1 --><div class=\"col-md-3\"><div class=\"card h-100 shadow rounded-4\"><p><video class=\"w-100 rounded-top-4\" controls=\"\" playsinline=\"\" preload=\"none\" poster=\"/p10/best-powder-coating-machine.jpg\">\r\n          <source src=\"/mp4/best-powder-coating-machine.mp4\" type=\"video/mp4\">\r\n        </video></p><div class=\"card-body\"><h5>Superior Electrostatic Performance</h5><p class=\"text-muted\">Coats complex parts and Faraday cage areas effortlessly.</p></div></div></div><!-- VIDEO 2 --><div class=\"col-md-3\"><div class=\"card h-100 shadow rounded-4\"><p><video class=\"w-100 rounded-top-4\" controls=\"\" playsinline=\"\" preload=\"none\" poster=\"/p10/5.webp\">\r\n          <source src=\"/mp4/manual-powder-coating-machine.mp4\" type=\"video/mp4\">\r\n        </video></p><div class=\"card-body\"><h5>Manual &amp; Automatic Systems</h5><p class=\"text-muted\">Flexible setups for different coating needs.</p></div></div></div><!-- VIDEO 3 --><div class=\"col-md-3\"><div class=\"card h-100 shadow rounded-4\"><p><video class=\"w-100 rounded-top-4\" controls=\"\" playsinline=\"\" preload=\"none\" poster=\"/p10/robot-powder-coating.jpg\">\r\n          <source src=\"/mp4/robot-powder-coating.mp4\" type=\"video/mp4\">\r\n        </video></p><div class=\"card-body\"><h5>Automated Robot Coating</h5><p class=\"text-muted\">Consistent, repeatable high-volume coating.</p></div></div></div><!-- VIDEO 4 --><div class=\"col-md-3\"><div class=\"card h-100 shadow rounded-4\"><p><video class=\"w-100 rounded-top-4\" controls=\"\" playsinline=\"\" preload=\"none\" poster=\"/p10/enamel-powder-coating.jpeg\">\r\n          <source src=\"/mp4/manual-powder-coating-machine.mp4\" type=\"video/mp4\">\r\n        </video></p><div class=\"card-body\"><h5>Enamel Powder Coating</h5><p class=\"text-muted\">Better performance compared to wet enamel processes.</p></div></div></div></div></div>"
+      summary: ''
+      format: full_html
+      embed_entities: {  }

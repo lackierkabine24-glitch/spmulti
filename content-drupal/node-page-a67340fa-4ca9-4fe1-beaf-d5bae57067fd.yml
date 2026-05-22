@@ -1,0 +1,20 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: a67340fa-4ca9-4fe1-beaf-d5bae57067fd
+entity_type: node
+bundle: page
+base_fields:
+  title: 'Terms & Conditions – Secure, Transparent & Built for Trust'
+  status: true
+  langcode: en
+  created: '1770439205'
+  author: null
+  revision_log_message: null
+  revision_uid: '1'
+  url: /terms
+custom_fields:
+  body:
+    -
+      value: '<section class="py-5" style="background-color:#f0fdf4;"><div class="container"><div class="row justify-content-center"><div class="col-12 col-xl-10"><!-- HERO --><div class="rounded-4 shadow-lg overflow-hidden mb-5"><div class="p-5"><h2 class="display-6 fw-bold text-dark mb-3">Terms &amp; Conditions – Clear, Transparent &amp; Secure (USA 2026)</h2><p class="lead text-dark mb-0">Please review our terms to understand your rights, obligations, and how we ensure a secure transaction.</p></div></div><!-- CTA --><div class="text-center mb-5"><a class="btn btn-success btn-lg rounded-pill px-5 shadow" href="/contact">📲 Questions? Contact Us&nbsp;</a></div><!-- AGREEMENT --><div class="rounded-4 shadow-lg p-4 p-md-5 mb-5 bg-white"><h2 class="h4 fw-bold text-success mb-3">Agreement to Terms</h2><p class="text-dark">By using our website or placing an order, you agree to these Terms &amp; Conditions. If you do not agree, please do not use our services.</p></div><!-- CONTRACT --><div class="rounded-4 shadow-lg p-4 p-md-5 mb-5 bg-white"><h2 class="h4 fw-bold text-success mb-3">Contract Formation</h2><p class="text-dark">Products listed on our website represent a binding offer. A contract is formed when you complete your order. You will receive confirmation via email.</p></div><!-- ORDERS --><div class="row g-4 mb-5"><div class="col-md-6"><div class="card border-0 shadow-lg rounded-4 h-100"><div class="card-body"><h3 class="fw-bold text-primary">Orders &amp; Payments</h3><ul><li>All orders subject to availability</li><li>Prices may change without notice</li><li>Payment required before processing</li></ul></div></div></div><div class="col-md-6"><div class="card border-0 shadow-lg rounded-4 h-100"><div class="card-body"><h3 class="fw-bold text-success">Shipping &amp; Delivery</h3><ul><li>Delivery times are estimates</li><li>We are not liable for carrier delays</li><li>Risk transfers upon delivery</li></ul></div></div></div></div><!-- OWNERSHIP --><div class="rounded-4 shadow-lg p-4 p-md-5 mb-5 bg-white"><h2 class="h4 fw-bold text-success mb-3">Ownership &amp; Retention of Title</h2><p class="text-dark">Goods remain our property until full payment has been received.</p></div><!-- WARRANTY --><div class="rounded-4 shadow-lg p-4 p-md-5 mb-5 bg-white"><h2 class="h4 fw-bold text-success mb-3">Warranty &amp; Liability</h2><ul class="text-dark"><li>Standard legal warranty applies</li><li>Inspect goods upon delivery</li><li>No liability for indirect damages</li></ul></div><!-- FINAL CTA --><div class="text-center"><div class="p-5 rounded-4 shadow-lg bg-primary text-white"><h2 class="fw-bold mb-3">Need Clarification?</h2><p>Our team is here to help you understand all terms clearly</p><p><a class="btn btn-light btn-lg rounded-pill px-5" href="/contact">Contact Support</a></p></div></div></div></div></div></section>'
+      summary: ''
+      format: full_html
+      embed_entities: {  }

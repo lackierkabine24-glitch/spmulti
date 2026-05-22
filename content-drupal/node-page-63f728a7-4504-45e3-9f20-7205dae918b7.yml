@@ -1,0 +1,20 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: 63f728a7-4504-45e3-9f20-7205dae918b7
+entity_type: node
+bundle: page
+base_fields:
+  title: 'Whatsapp Contact'
+  status: true
+  langcode: en
+  created: '1710391859'
+  author: contact@salespeare.com
+  revision_log_message: null
+  revision_uid: '1'
+  url: null
+custom_fields:
+  body:
+    -
+      value: '<p>Start chat</p>'
+      summary: ''
+      format: full_html
+      embed_entities: {  }

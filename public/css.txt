@@ -1,0 +1,38 @@
+.side-nav-2{
+  position: fixed !important;
+
+  right: 8px;              /* closer to the edge */
+  top: 50%;
+  transform: translateY(-50%);
+
+  z-index: 2000;           /* stay above other stuff */
+  padding: 0.75rem;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.15);
+}
+
+.navbar-box {
+    width: 428px;
+
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}  
+
+  .color-changing-btn {
+      font-size: 1.5rem;
+      padding: 1rem 2rem;
+      animation: pulseColors 3s infinite;
+      transition: transform 0.3s ease-in-out;
+    }
+
+    .color-changing-btn:hover {
+      transform: scale(1.05);
+    }
+
+    @keyframes pulseColors {
+      0%   { background-color: #ff5733; color: white; }
+      25%  { background-color: #ffbd33; color: black; }
+      50%  { background-color: #33ff57; color: black; }
+      75%  { background-color: #3380ff; color: white; }
+      100% { background-color: #ff5733; color: white; }
+    }

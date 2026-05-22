@@ -1,0 +1,106 @@
+<footer class="pt-5 pb-4 bg-white border-top">
+    <div class="container">
+        <div class="row g-4 align-items-start">
+            <!-- COMPANY -->
+            <div class="col-md-6 col-lg-3">
+                <h5 class="fw-bold mb-3">
+                    Salespeare
+                </h5>
+                <p class="small text-muted mb-3">
+                    Industrial equipment supplier for powder coating systems, CNC machines, fiber laser solutions, stone products and compact tractors.
+                </p>
+                <div class="d-flex gap-3 align-items-center">
+                    <a href="https://wa.me/971581262774" target="_blank" rel="noopener" aria-label="WhatsApp"><img src="/svg/whatsapp.svg" alt="WhatsApp" width="24" height="24" loading="lazy"> </a><a href="/contact" aria-label="Contact"><img src="/svg/envelope.svg" alt="Email contact" width="24" height="24" loading="lazy">&nbsp;</a>
+                </div>
+            </div>
+            <!-- PRODUCTS -->
+            <div class="col-md-6 col-lg-3">
+                <h6 class="fw-bold mb-3">
+                    Products
+                </h6>
+                <ul class="list-unstyled small mb-0">
+                    <li class="mb-2">
+                        <a class="text-decoration-none text-muted" href="/powdercoat-equipment">Powder Coating Equipment</a>
+                    </li>
+                    <li class="mb-2">
+                        <a class="text-decoration-none text-muted" href="/cnc-machine-supplier">CNC Machines</a>
+                    </li>
+                    <li class="mb-2">
+                        <a class="text-decoration-none text-muted" href="/fiber-laser">Fiber Laser</a>
+                    </li>
+                    <li class="mb-2">
+                        <a class="text-decoration-none text-muted" href="/polished-marble">Marble &amp; Limestone</a>
+                    </li>
+                    <li>
+                        <a class="text-decoration-none text-muted" href="/mini-tractor">Compact Tractors</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- COMPANY LINKS -->
+            <div class="col-md-6 col-lg-3">
+                <h6 class="fw-bold mb-3">
+                    Company
+                </h6>
+                <ul class="list-unstyled small mb-0">
+                    <li class="mb-2">
+                        <a class="text-decoration-none text-muted" href="/about">About Us</a>
+                    </li>
+                    <li class="mb-2">
+                        <a class="text-decoration-none text-muted" href="/career">Career</a>
+                    </li>
+                    <li class="mb-2">
+                        <a class="text-decoration-none text-muted" href="/contact">Contact</a>
+                    </li>
+                    <li class="mb-2">
+                        <a class="text-decoration-none text-muted" href="/videos">Videos</a>
+                    </li>
+                    <li>
+                        <a class="text-decoration-none text-muted" href="/offers">Current Offers</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- LEGAL + CTA -->
+            <div class="col-md-6 col-lg-3">
+                <h6 class="fw-bold mb-3">
+                    Legal
+                </h6>
+                <ul class="list-unstyled small mb-3">
+                    <li class="mb-2">
+                        <a class="text-decoration-none text-muted" href="/imprint">Imprint</a>
+                    </li>
+                    <li class="mb-2">
+                        <a class="text-decoration-none text-muted" href="/agb">Terms &amp; Conditions</a>
+                    </li>
+                    <li class="mb-2">
+                        <a class="text-decoration-none text-muted" href="/datenschutz">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a class="text-decoration-none text-muted" href="/return-policy">Return Policy</a>
+                    </li>
+                </ul>
+                <p>
+                    <a class="btn btn-success w-100 rounded-pill" href="https://wa.me/971581262774" target="_blank" rel="noopener">Start WhatsApp&nbsp;</a>
+                </p>
+            </div>
+        </div>
+        <hr>
+        <div class="row gy-3 align-items-center">
+            <div class="col-md-6">
+                <p class="small text-muted mb-0">
+                    &copy; 2026 Salespeare. All rights reserved.
+                </p>
+            </div>
+            <div class="col-md-6 text-md-end">
+                <p class="small text-muted mb-0">
+                    USA &middot; UAE &amp; GCC &middot; Europe
+                </p>
+            </div>
+        </div>
+    </div>
+    <!-- KEEP ALL YOUR ORIGINAL SCRIPTS EXACTLY BELOW THIS LINE --><!-- Example only: replace this block with your real existing scripts --><!--
+      <script src="/js/main.js"></script>
+      <script>
+        gtag('config', 'AW-XXXXXXXXX');
+      </script>
+      -->
+</footer>

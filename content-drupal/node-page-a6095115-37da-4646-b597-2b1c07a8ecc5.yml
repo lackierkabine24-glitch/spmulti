@@ -1,0 +1,83 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: a6095115-37da-4646-b597-2b1c07a8ecc5
+entity_type: node
+bundle: page
+base_fields:
+  title: 'Powder coating oven selection'
+  status: true
+  langcode: en
+  created: '1775123628'
+  author: null
+  revision_log_message: null
+  revision_uid: '1'
+  menu_link:
+    uuid: a46db8b6-8c52-45ea-b3a6-86197879eb40
+    entity_type: menu_link_content
+    bundle: menu_link_content
+    base_fields:
+      title: Oven
+      enabled: true
+      expanded: false
+      langcode: en
+      menu_name: main
+      description: 'Powder coating oven selection'
+      link:
+        -
+          uri: 'entity:node/a6095115-37da-4646-b597-2b1c07a8ecc5'
+          title: null
+          options: {  }
+          entity:
+            uuid: a6095115-37da-4646-b597-2b1c07a8ecc5
+            entity_type: node
+            base_fields:
+              title: 'Powder coating oven selection'
+              status: true
+              langcode: en
+              created: '1775123628'
+              author: null
+              revision_log_message: null
+              revision_uid: '1'
+              url: /powder-coating-oven
+            bundle: page
+      weight: -47
+      parent:
+        uuid: ae96a7de-31ef-4c64-9e5c-f1eaec40b233
+        entity_type: menu_link_content
+        bundle: menu_link_content
+        base_fields:
+          title: 'Powdercoat Eq'
+          enabled: true
+          expanded: true
+          langcode: en
+          menu_name: main
+          description: null
+          link:
+            -
+              uri: 'entity:node/eb741f6f-3310-4ed2-8163-955b0e9fc2a2'
+              title: ''
+              options: {  }
+              entity:
+                uuid: eb741f6f-3310-4ed2-8163-955b0e9fc2a2
+                entity_type: node
+                base_fields:
+                  title: 'Powder coating equipment for sale'
+                  status: true
+                  langcode: en
+                  created: '1749016356'
+                  author: null
+                  revision_log_message: null
+                  revision_uid: '1'
+                  url: /powdercoat-equipment
+                bundle: page
+          weight: -48
+          parent: ''
+        custom_fields: {  }
+    custom_fields: {  }
+  url: /powder-coating-oven
+custom_fields:
+  body:
+    -
+      value: '<section class="py-5" style="background-color:#f0fdf4;"><div class="container"><div class="col-xl-10 mx-auto"><!-- HERO --><div class="p-5 mb-5 rounded-4 shadow-lg"><h2 class="fw-bold text-dark">Powder Coating Batch Ovens – Industrial Curing Systems</h2><p class="lead text-dark">Gas, electric, diesel or infrared ovens for perfect curing results.</p><p><a class="btn btn-success rounded-pill px-4" href="/contact">Get Quote</a></p></div><meta name="description" content="Discover industrial powder coating batch ovens with gas, electric, diesel or infrared heating. Fast delivery, custom sizes, efficient curing, and turnkey support for manufacturers worldwide."><!-- INTRO --><div class="card p-4 mb-5 shadow-lg border-0 rounded-4"><h3 class="fw-bold">Overview</h3><p>Curing ovens heat coated parts typically between 160–180°C for 10–20 minutes depending on powder type.</p><ul><li>Electric / Gas / Oil / Infrared</li><li>1–7 meter standard sizes</li><li>Custom industrial sizes available</li></ul></div><!-- IMAGE --><img class="img-fluid rounded-4 mb-5" src="/p13/16.webp" alt="industrial powder coating oven tunnel system" width="720" height="404"><!-- BENEFITS --><div class="row g-4 mb-5"><div class="col-md-6"><div class="card p-4 shadow-lg border-0 rounded-4"><h3 class="text-success fw-bold">Advantages</h3><ul><li>✔ Uniform curing</li><li>✔ Durable coating</li><li>✔ Efficient insulation</li><li>✔ Fast heating cycles</li></ul></div></div><div class="col-md-6"><div class="card p-4 shadow-lg border-0 rounded-4"><h3 class="text-danger fw-bold">Typical Problems</h3><ul><li>✖ Uneven heat</li><li>✖ High energy cost</li><li>✖ Poor airflow</li></ul></div></div></div><!-- TYPES --><div class="card p-4 mb-5 shadow-lg border-0 rounded-4"><h3 class="fw-bold">Heating Types</h3><ul><li>Electric ovens</li><li>Gas / oil burners</li><li>Infrared curing</li><li>Hybrid systems</li></ul></div><!-- DIMENSIONS --><div class="card p-4 mb-5 shadow-lg border-0 rounded-4"><h3 class="fw-bold">Standard Dimensions</h3><table class="table table-bordered"><thead><tr><th>Type</th><th>Width</th><th>Height</th><th>Length</th></tr></thead><tbody><tr><td>EL20</td><td>1.5m</td><td>1.8m</td><td>2m</td></tr><tr><td>EL30</td><td>1.5m</td><td>1.8m</td><td>3m</td></tr><tr><td>EL40</td><td>1.5m</td><td>1.8m</td><td>4m</td></tr><tr><td>EL50</td><td>1.5m</td><td>1.8m</td><td>5m</td></tr><tr><td>EL70</td><td>1.5m</td><td>1.8m</td><td>7m</td></tr></tbody></table></div><!-- TECH --><div class="card p-4 mb-5 shadow-lg border-0 rounded-4"><h3 class="fw-bold">Technical Features</h3><ul><li>Air convection system with fans</li><li>Multiple sensors for temperature control</li><li>High insulation efficiency</li><li>Gas or electric heating options</li></ul></div><!-- CONTROL --><div class="row g-4 mb-5"><div class="col-md-6"><img class="img-fluid rounded-4" src="/p13/analog.webp" alt="powder coating oven analog control system" width="463" height="720"><p>Analog control system – reliable and simple</p></div><div class="col-md-6"><img class="img-fluid rounded-4" src="/p13/siemens steuerung.webp" alt="powder coating oven digital PLC control Siemens"><p>Digital PLC control up to 450°C</p></div></div><!-- VARIANTS --><div class="row g-4 mb-5"><div class="col-md-3"><img class="img-fluid" src="/p13/1.webp" alt="small powder coating oven compact" width="720" height="540"></div><div class="col-md-3"><img class="img-fluid" src="/p13/2.webp" alt="powder oven wheel coating" width="582" height="439"></div><div class="col-md-3"><img class="img-fluid" src="/p13/3.webp" alt="7 meter powder coating oven" width="720" height="540"></div><div class="col-md-3"><img class="img-fluid" src="/p13/4.webp" alt="powder oven combustion chamber" width="720" height="540"></div></div><!-- CTA --><div class="text-center"><div class="p-5 rounded-4 shadow-lg bg-primary text-white"><h2 class="fw-bold">Request Your Custom Oven</h2><p>Fast delivery – best price – global installation</p><p><a class="btn btn-light btn-lg rounded-pill px-5" href="/contact">Get Offer</a></p></div></div></div></div></section>'
+      summary: ''
+      format: full_html
+      embed_entities: {  }

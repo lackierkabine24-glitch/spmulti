@@ -1,0 +1,546 @@
+<main>
+    <!-- Hero / Orientation -->
+    <section class="py-5 bg-light border-bottom">
+        <div class="container">
+            <div class="row align-items-center g-4">
+                <div class="col-lg-8">
+                    <p>
+                        <span class="badge text-bg-primary mb-3">Industrial Equipment Supplier | USA · UAE &amp; GCC · EU</span>
+                    </p>
+                    <h1 class="display-5 fw-bold mb-3">
+                        Find the right industrial equipment for your business
+                    </h1>
+                    <p class="lead text-secondary mb-4">
+                        Explore powder coating systems, CNC machines, fiber laser solutions, stone products and compact tractors from one trusted supplier. This homepage is designed to help visitors quickly choose the right product category and continue to the most relevant page.
+                    </p>
+                    <div class="d-flex flex-wrap gap-2">
+                        <a class="btn btn-primary btn-lg" href="#product-categories">Browse Products</a> <a class="btn btn-outline-primary btn-lg" href="/offers">Current Offers</a> <a class="btn btn-success btn-lg" href="https://wa.me/971581262774?text=Hello%2C%20I%20want%20help%20choosing%20the%20right%20machine" target="_blank" rel="noopener">WhatsApp Us</a>
+                    </div>
+                    <p class="small text-muted mt-3 mb-0">
+                        Supplying reliable, precision-engineered solutions since 2010.
+                    </p>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card shadow-sm border-0 h-100">
+                        <div class="card-body p-4">
+                            <h2 class="h4 mb-3">
+                                Start here
+                            </h2>
+                            <p class="text-secondary mb-3">
+                                Choose the product type that matches your project.
+                            </p>
+                            <div class="list-group list-group-flush">
+                                <a class="list-group-item list-group-item-action px-0" href="#powder-coating">Powder Coating Equipment</a> <a class="list-group-item list-group-item-action px-0" href="#cnc-machines">CNC Machines</a> <a class="list-group-item list-group-item-action px-0" href="#stone-products">Marble &amp; Limestone</a> <a class="list-group-item list-group-item-action px-0" href="#compact-tractors">Compact Tractors</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <title>Industrial Equipment Supplier | Powder Coating, CNC Machines, Fiber Laser &amp; More</title><meta name="description" content="Find the right industrial equipment for your business. Explore powder coating systems, CNC machines, fiber laser solutions, marble products and compact tractors from a trusted supplier."><link rel="canonical" href="https://salespeare.com/"><meta name="robots" content="index,follow"><meta property="og:title" content="Industrial Equipment Supplier | Find the Right Product Faster"><meta property="og:description" content="Visitor-friendly homepage to help customers quickly choose powder coating equipment, CNC machines, laser systems and more."><meta property="og:type" content="website"><meta property="og:url" content="https://salespeare.com/"><!-- Quick trust section -->
+    <section class="py-4 bg-white">
+        <div class="container">
+            <div class="row g-3 text-center">
+                <div class="col-md-3">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body">
+                            <h2 class="h5">
+                                Clear Product Paths
+                            </h2>
+                            <p class="text-secondary mb-0">
+                                Visitors can quickly find the right machine or system.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body">
+                            <h2 class="h5">
+                                International Supply
+                            </h2>
+                            <p class="text-secondary mb-0">
+                                Serving customers in USA, UAE, GCC and Europe.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body">
+                            <h2 class="h5">
+                                Technical Guidance
+                            </h2>
+                            <p class="text-secondary mb-0">
+                                Support for choosing suitable capacity, layout and process.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body">
+                            <h2 class="h5">
+                                Fast Next Step
+                            </h2>
+                            <p class="text-secondary mb-0">
+                                Every section leads visitors directly to the relevant product page.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Product categories -->
+    <section class="py-5 bg-light" id="product-categories">
+        <div class="container">
+            <div class="text-center mb-5">
+                <h2 class="fw-bold">
+                    Choose your product category
+                </h2>
+                <p class="text-secondary mb-0">
+                    Designed for orientation first, then deeper product exploration.
+                </p>
+            </div>
+            <!-- Powder Coating -->
+            <div class="mb-5" id="powder-coating">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h2 class="h3 mb-0">
+                        Powder Coating Equipment
+                    </h2>
+                    <p>
+                        <a class="btn btn-outline-primary btn-sm" href="/powdercoat-equipment">View all</a>
+                    </p>
+                </div>
+                <div class="row g-4">
+                    <div class="col-md-6 col-xl-4">
+                        <article class="card h-100 shadow-sm border-0">
+                            <a href="/powdercoat-equipment"><img class="card-img-top" src="/p0/1.webp" alt="Powder coating machine with oven and booth" width="1916" height="1668" loading="lazy"></a>
+                            <div class="card-body d-flex flex-column">
+                                <h3 class="h5 card-title">
+                                    <a class="text-decoration-none text-dark" href="/powdercoat-equipment">Powder Coating Machine</a>
+                                </h3>
+                                <p class="text-secondary">
+                                    Turnkey solution with spray guns, booth and oven.
+                                </p>
+                                <ul class="small text-secondary">
+                                    <li>
+                                        Ideal for complete coating setups
+                                    </li>
+                                    <li>
+                                        Reliable production performance
+                                    </li>
+                                    <li>
+                                        Videos and demonstrations available
+                                    </li>
+                                </ul>
+                                <div class="mt-auto d-flex gap-2 flex-wrap">
+                                    <a class="btn btn-primary" href="/powdercoat-equipment">Visit Page</a> <a class="btn btn-outline-secondary" href="/videos">Videos</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-md-6 col-xl-4">
+                        <article class="card h-100 shadow-sm border-0">
+                            <a href="/enamel-powdercoat"><img class="card-img-top" src="/p10/7.webp" alt="Enamel powder coating line" width="656" height="334" loading="lazy"></a>
+                            <div class="card-body d-flex flex-column">
+                                <h3 class="h5 card-title">
+                                    <a class="text-decoration-none text-dark" href="/enamel-powdercoat">Enamel Powder Coating Line</a>
+                                </h3>
+                                <p class="text-secondary">
+                                    Special line for high-heat and acid-resistant enamel powder applications.
+                                </p>
+                                <ul class="small text-secondary">
+                                    <li>
+                                        Suitable for bakeware and appliances
+                                    </li>
+                                    <li>
+                                        High-temperature furnace included
+                                    </li>
+                                    <li>
+                                        Built for demanding industrial use
+                                    </li>
+                                </ul>
+                                <div class="mt-auto d-flex gap-2 flex-wrap">
+                                    <a class="btn btn-primary" href="/enamel-powdercoat">Visit Page</a> <a class="btn btn-outline-secondary" href="/contact">Ask Us</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-md-6 col-xl-4">
+                        <article class="card h-100 shadow-sm border-0">
+                            <a href="/powdercoat-aluminium-profiles"><img class="card-img-top" src="/p10/8.webp" alt="Aluminium profiles coating plant" width="720" height="405" loading="lazy"></a>
+                            <div class="card-body d-flex flex-column">
+                                <h3 class="h5 card-title">
+                                    <a class="text-decoration-none text-dark" href="/powdercoat-aluminium-profiles">Aluminium Profiles Coating Plant</a>
+                                </h3>
+                                <p class="text-secondary">
+                                    Automated coating line for high-output aluminium profile production.
+                                </p>
+                                <ul class="small text-secondary">
+                                    <li>
+                                        Automatic lines for consistent quality
+                                    </li>
+                                    <li>
+                                        Efficient use of floor space
+                                    </li>
+                                    <li>
+                                        Designed for large-volume production
+                                    </li>
+                                </ul>
+                                <div class="mt-auto d-flex gap-2 flex-wrap">
+                                    <a class="btn btn-primary" href="/powdercoat-aluminium-profiles">Visit Page</a> <a class="btn btn-outline-secondary" href="/videos">Videos</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+            <!-- CNC -->
+            <div class="mb-5" id="cnc-machines">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h2 class="h3 mb-0">
+                        CNC Machines
+                    </h2>
+                    <p>
+                        <a class="btn btn-outline-primary btn-sm" href="/cnc-machine-supplier">View all</a>
+                    </p>
+                </div>
+                <div class="row g-4">
+                    <div class="col-md-6 col-xl-4">
+                        <article class="card h-100 shadow-sm border-0">
+                            <a href="/cnc-machine-supplier"><img class="card-img-top" src="/p0/4.webp" alt="CNC machines supplier" width="800" height="533" loading="lazy"></a>
+                            <div class="card-body d-flex flex-column">
+                                <h3 class="h5 card-title">
+                                    <a class="text-decoration-none text-dark" href="/cnc-machine-supplier">New &amp; Used CNC Machines</a>
+                                </h3>
+                                <p class="text-secondary">
+                                    Find efficient CNC machine options with startup and transport support in the GCC.
+                                </p>
+                                <ul class="small text-secondary">
+                                    <li>
+                                        New models and weekly used machines
+                                    </li>
+                                    <li>
+                                        High efficiency, lower maintenance
+                                    </li>
+                                    <li>
+                                        Support for installation and startup
+                                    </li>
+                                </ul>
+                                <div class="mt-auto d-flex gap-2 flex-wrap">
+                                    <a class="btn btn-primary" href="/cnc-machine-supplier">New Machines</a> <a class="btn btn-outline-secondary" href="/used-machines">Used Machines</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-md-6 col-xl-4">
+                        <article class="card h-100 shadow-sm border-0">
+                            <a href="/fiber-laser"><img class="card-img-top" src="/p0/5.webp" alt="Portable fiber laser welding machine" width="720" height="480" loading="lazy"></a>
+                            <div class="card-body d-flex flex-column">
+                                <h3 class="h5 card-title">
+                                    <a class="text-decoration-none text-dark" href="/fiber-laser">Portable Fiber Laser Welding</a>
+                                </h3>
+                                <p class="text-secondary">
+                                    Fast and practical welding solution for modern fabrication needs.
+                                </p>
+                                <ul class="small text-secondary">
+                                    <li>
+                                        Easier operation
+                                    </li>
+                                    <li>
+                                        Up to 5x faster workflow
+                                    </li>
+                                    <li>
+                                        Suitable for mobile and outdoor use
+                                    </li>
+                                </ul>
+                                <div class="mt-auto d-flex gap-2 flex-wrap">
+                                    <a class="btn btn-primary" href="/fiber-laser">Visit Page</a> <a class="btn btn-outline-secondary" href="/fiber-laser">Safety Info</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-md-6 col-xl-4">
+                        <article class="card h-100 shadow-sm border-0">
+                            <a href="/holographic-fan-display"><img class="card-img-top" src="/p0/6.webp" alt="3D hologram fan display" width="991" height="661" loading="lazy"></a>
+                            <div class="card-body d-flex flex-column">
+                                <h3 class="h5 card-title">
+                                    <a class="text-decoration-none text-dark" href="/holographic-fan-display">3D Hologram Fan Display</a>
+                                </h3>
+                                <p class="text-secondary">
+                                    Digital display solution for businesses that want attention-grabbing visuals.
+                                </p>
+                                <ul class="small text-secondary">
+                                    <li>
+                                        High-impact digital signage
+                                    </li>
+                                    <li>
+                                        Modern promotional presentation
+                                    </li>
+                                    <li>
+                                        Suitable for many business types
+                                    </li>
+                                </ul>
+                                <div class="mt-auto d-flex gap-2 flex-wrap">
+                                    <a class="btn btn-primary" href="/holographic-fan-display">Visit Page</a> <a class="btn btn-outline-secondary" href="/holographic-fan-display">Learn More</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+            <!-- Stone -->
+            <div class="mb-5" id="stone-products">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h2 class="h3 mb-0">
+                        Marble &amp; Limestone
+                    </h2>
+                    <p>
+                        <a class="btn btn-outline-primary btn-sm" href="/polished-marble">View all</a>
+                    </p>
+                </div>
+                <div class="row g-4">
+                    <div class="col-md-6 col-xl-4">
+                        <article class="card h-100 shadow-sm border-0">
+                            <a href="/marble-wall-panel"><img class="card-img-top" src="/p0/7.webp" alt="Marble HD print tile" width="800" height="533" loading="lazy"></a>
+                            <div class="card-body d-flex flex-column">
+                                <h3 class="h5 card-title">
+                                    <a class="text-decoration-none text-dark" href="/marble-wall-panel">Marble HD Print Tile</a>
+                                </h3>
+                                <p class="text-secondary">
+                                    Innovative wall and surface material with lightweight construction.
+                                </p>
+                                <ul class="small text-secondary">
+                                    <li>
+                                        Non-plastic finish
+                                    </li>
+                                    <li>
+                                        Ultra-lightweight design
+                                    </li>
+                                    <li>
+                                        Suitable for decorative applications
+                                    </li>
+                                </ul>
+                                <div class="mt-auto d-flex gap-2 flex-wrap">
+                                    <a class="btn btn-primary" href="/marble-wall-panel">Visit Page</a> <a class="btn btn-outline-secondary" href="/marble-wall-panel">Ask Us</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-md-6 col-xl-4">
+                        <article class="card h-100 shadow-sm border-0">
+                            <a href="/polished-marble"><img class="card-img-top" src="/p0/8.webp" alt="High quality polished marble" width="1585" height="1057" loading="lazy"></a>
+                            <div class="card-body d-flex flex-column">
+                                <h3 class="h5 card-title">
+                                    <a class="text-decoration-none text-dark" href="/polished-marble">High Quality Marble</a>
+                                </h3>
+                                <p class="text-secondary">
+                                    Natural and artificial marble options for premium projects.
+                                </p>
+                                <ul class="small text-secondary">
+                                    <li>
+                                        Available in multiple colors
+                                    </li>
+                                    <li>
+                                        Suitable for residential and commercial use
+                                    </li>
+                                    <li>
+                                        Variety information available on request
+                                    </li>
+                                </ul>
+                                <div class="mt-auto d-flex gap-2 flex-wrap">
+                                    <a class="btn btn-primary" href="/polished-marble">Visit Page</a> <a class="btn btn-outline-secondary" href="/contact">Ask Us</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-md-6 col-xl-4">
+                        <article class="card h-100 shadow-sm border-0">
+                            <a href="/lime-stone"><img class="card-img-top" src="/p0/9.webp" alt="Natural limestone" width="1641" height="1094" loading="lazy"></a>
+                            <div class="card-body d-flex flex-column">
+                                <h3 class="h5 card-title">
+                                    <a class="text-decoration-none text-dark" href="/lime-stone">Natural Limestone</a>
+                                </h3>
+                                <p class="text-secondary">
+                                    Stone solution for gardens, pools and outdoor projects.
+                                </p>
+                                <ul class="small text-secondary">
+                                    <li>
+                                        Natural look and durable finish
+                                    </li>
+                                    <li>
+                                        Direct sales options
+                                    </li>
+                                    <li>
+                                        Suitable for landscape applications
+                                    </li>
+                                </ul>
+                                <div class="mt-auto d-flex gap-2 flex-wrap">
+                                    <a class="btn btn-primary" href="/lime-stone">Visit Page</a> <a class="btn btn-outline-secondary" href="/contact">Ask Us</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+            <!-- Tractors -->
+            <div id="compact-tractors">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h2 class="h3 mb-0">
+                        Compact Tractors
+                    </h2>
+                    <p>
+                        <a class="btn btn-outline-primary btn-sm" href="/mini-tractor">View all</a>
+                    </p>
+                </div>
+                <div class="row g-4">
+                    <div class="col-md-6 col-xl-4">
+                        <article class="card h-100 shadow-sm border-0">
+                            <a href="/mini-tractor"><img class="card-img-top" src="/t/1.webp" alt="Mini tractor ANKEBOOT" width="1190" height="1095" loading="lazy"></a>
+                            <div class="card-body d-flex flex-column">
+                                <h3 class="h5 card-title">
+                                    <a class="text-decoration-none text-dark" href="/mini-tractor">Mini Tractor ANKEBOOT</a>
+                                </h3>
+                                <p class="text-secondary">
+                                    Compact agricultural machine combining mobility with strong working power.
+                                </p>
+                                <ul class="small text-secondary">
+                                    <li>
+                                        Low fuel consumption
+                                    </li>
+                                    <li>
+                                        Suitable for rotary hoe work
+                                    </li>
+                                    <li>
+                                        Built for practical small-scale farming
+                                    </li>
+                                </ul>
+                                <div class="mt-auto d-flex gap-2 flex-wrap">
+                                    <a class="btn btn-primary" href="/mini-tractor">Visit Page</a> <a class="btn btn-outline-secondary" href="/mini-tractor">Ask Us</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-md-6 col-xl-4">
+                        <article class="card h-100 shadow-sm border-0">
+                            <a href="/mini-tractor"><img class="card-img-top" src="/t/2.webp" alt="Compact pickup ANKE" width="1024" height="763" loading="lazy"></a>
+                            <div class="card-body d-flex flex-column">
+                                <h3 class="h5 card-title">
+                                    <a class="text-decoration-none text-dark" href="/mini-tractor">Compact Pickup ANKE</a>
+                                </h3>
+                                <p class="text-secondary">
+                                    Light and practical utility vehicle for transport work.
+                                </p>
+                                <ul class="small text-secondary">
+                                    <li>
+                                        Compact body size
+                                    </li>
+                                    <li>
+                                        Up to 50 km/h speed
+                                    </li>
+                                    <li>
+                                        Suitable for local work environments
+                                    </li>
+                                </ul>
+                                <div class="mt-auto d-flex gap-2 flex-wrap">
+                                    <a class="btn btn-primary" href="/mini-tractor">Visit Page</a> <a class="btn btn-outline-secondary" href="/contact">Ask Us</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                    <div class="col-md-6 col-xl-4">
+                        <article class="card h-100 shadow-sm border-0">
+                            <a href="/mini-tractor"><img class="card-img-top" src="/t/4.webp" alt="Compact tractor for gardens and farms" width="769" height="577" loading="lazy"></a>
+                            <div class="card-body d-flex flex-column">
+                                <h3 class="h5 card-title">
+                                    <a class="text-decoration-none text-dark" href="/mini-tractor">Compact Tractor</a>
+                                </h3>
+                                <p class="text-secondary">
+                                    Designed for gardens and smaller agricultural plots.
+                                </p>
+                                <ul class="small text-secondary">
+                                    <li>
+                                        Suitable for areas under 20 acres
+                                    </li>
+                                    <li>
+                                        Rotary hoe compatibility
+                                    </li>
+                                    <li>
+                                        Practical for light-duty farming tasks
+                                    </li>
+                                </ul>
+                                <div class="mt-auto d-flex gap-2 flex-wrap">
+                                    <a class="btn btn-primary" href="/mini-tractor">Visit Page</a> <a class="btn btn-outline-secondary" href="/contact">Ask Us</a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- SEO-friendly supporting content -->
+    <section class="py-5 bg-white">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="card border-0 shadow-sm">
+                        <div class="card-body p-4 p-lg-5">
+                            <h2 class="fw-bold mb-3">
+                                Why businesses choose our industrial equipment solutions
+                            </h2>
+                            <p class="text-secondary">
+                                As an industrial equipment supplier, we help businesses identify the right machinery based on capacity, product type, floor space, workflow and long-term operating goals. Our product portfolio includes powder coating equipment, CNC machines, fiber laser systems, natural stone products and compact tractors.
+                            </p>
+                            <p class="text-secondary">
+                                This homepage should act as a clear orientation page: visitors first understand the available categories, then compare the most relevant options, and finally continue to the detailed product page that fits their project. That structure improves usability, reduces confusion and supports stronger SEO by matching search intent more precisely.
+                            </p>
+                            <div class="row g-4 mt-2">
+                                <div class="col-md-4">
+                                    <div class="p-3 bg-light rounded-3 h-100">
+                                        <h3 class="h6">
+                                            Better visitor experience
+                                        </h3>
+                                        <p class="small text-secondary mb-0">
+                                            Cleaner layout, fewer distracting colors and stronger content hierarchy.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="p-3 bg-light rounded-3 h-100">
+                                        <h3 class="h6">
+                                            Better SEO structure
+                                        </h3>
+                                        <p class="small text-secondary mb-0">
+                                            Clear headings, meaningful copy, descriptive alt text and strong internal links.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="p-3 bg-light rounded-3 h-100">
+                                        <h3 class="h6">
+                                            Better conversion flow
+                                        </h3>
+                                        <p class="small text-secondary mb-0">
+                                            Each card gives a fast next step, helping visitors continue deeper into the site.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+<!-- Suggested SEO additions for the <head> section --><title>Industrial Equipment Supplier | Powder Coating, CNC Machines, Fiber Laser &amp; More</title><meta name="description" content="Find the right industrial equipment for your business. Explore powder coating systems, CNC machines, fiber laser solutions, marble products and compact tractors from a trusted supplier."><link rel="canonical" href="https://yourdomain.com/"><meta name="robots" content="index,follow"><meta property="og:title" content="Industrial Equipment Supplier | Find the Right Product Faster"><meta property="og:description" content="Visitor-friendly homepage to help customers quickly choose powder coating equipment, CNC machines, laser systems and more."><meta property="og:type" content="website"><meta property="og:url" content="https://yourdomain.com/"><!-- Recommended style direction:
+1. Use one main color family only: primary blue + neutral grays + white.
+2. Avoid mixing primary, secondary, marks and many highlighted colors across the same screen.
+3. Keep section backgrounds mostly white or light gray for a cleaner B2B look.
+4. Use consistent button styles: primary for main action, outline-secondary for secondary action.
+5. Keep equal card heights with h-100 and use shadow-sm for soft depth.
+-->

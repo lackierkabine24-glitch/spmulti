@@ -1,0 +1,20 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: 4a2ca829-3c2c-457c-91a3-09bc80fc791a
+entity_type: node
+bundle: page
+base_fields:
+  title: 'Simple Return Policy – No Stress, No Surprises'
+  status: true
+  langcode: en
+  created: '1768019946'
+  author: null
+  revision_log_message: null
+  revision_uid: '1'
+  url: /return
+custom_fields:
+  body:
+    -
+      value: '<section class="py-5" style="background-color:#f0fdf4;"><div class="container"><div class="row justify-content-center"><div class="col-12 col-xl-10"><div class="rounded-4 shadow-lg overflow-hidden mb-5"><div class="p-5"><h2 class="display-6 fw-bold text-dark mb-3">Returns &amp; Refunds – Clear, Fair &amp; Fast (USA 2026)</h2><p class="lead text-dark mb-0">Transparent return conditions designed to give you confidence when ordering from us.</p></div></div><div class="text-center mb-5"><a class="btn btn-success btn-lg rounded-pill px-5 shadow" href="/contact">📲 Start a Return Request&nbsp;</a></div><div class="row g-4 mb-5"><div class="col-md-6"><div class="card border-0 shadow-lg rounded-4 h-100"><div class="card-body"><h3 class="fw-bold text-primary">30-Day Return Policy</h3><p>You may return eligible items within <strong>30 days</strong> of delivery. Items must be unused, in original condition and packaging.</p></div></div></div><div class="col-md-6"><div class="card border-0 shadow-lg rounded-4 h-100"><div class="card-body"><h3 class="fw-bold text-success">Refund Process</h3><p>Approved refunds are processed within <strong>5–10 business days</strong> using the original payment method.</p></div></div></div></div><div class="rounded-4 shadow-lg p-4 p-md-5 mb-5 bg-white"><h2 class="h4 fw-bold text-success mb-3">Return Requirements</h2><ul class="text-dark"><li>✔ Proof of purchase required</li><li>✔ Item must be unused and undamaged</li><li>✔ Return request submitted within timeframe</li></ul></div><div class="rounded-4 shadow-lg p-4 p-md-5 mb-5 bg-white"><h2 class="h4 fw-bold text-success mb-3">Non-Returnable Items</h2><ul class="text-dark"><li>Custom-made or personalized products</li><li>Used or damaged items (not due to shipping)</li><li>Items marked as non-returnable</li></ul></div><div class="rounded-4 shadow-lg p-4 p-md-5 mb-5 bg-white"><h2 class="h4 fw-bold text-success mb-3">Return Shipping</h2><ul class="text-dark"><li>Customers cover return shipping unless defective</li><li>Trackable shipping recommended</li><li>Freight returns may apply for large equipment</li></ul></div><div class="text-center"><div class="p-5 rounded-4 shadow-lg bg-primary text-white"><h2 class="fw-bold mb-3">Need Help With a Return?</h2><p>Our team will guide you step-by-step</p><p><a class="btn btn-light btn-lg rounded-pill px-5" href="/contact">Contact Support</a></p></div></div></div></div></div></section>'
+      summary: ''
+      format: full_html
+      embed_entities: {  }

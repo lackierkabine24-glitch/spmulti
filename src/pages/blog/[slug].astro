@@ -1,0 +1,31 @@
+---
+import Layout from '../../components/Layout.astro';
+import { getCollection } from 'astro:content';
+import { marked } from 'marked';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => ({ params: { slug: post.slug } }));
+}
+
+const { slug } = Astro.params;
+const post = await getCollection('blog').then((posts) => posts.find((entry) => entry.slug === slug));
+
+if (!post) {
+  throw new Error(`Blog post not found: ${slug}`);
+}
+
+const html = marked.parse(post.body, {
+  mangle: false,
+  headerIds: false,
+});
+---
+<Layout title={post.data.title}>
+  <article class="blog-post">
+    <p class="eyebrow">{post.data.pubDate}</p>
+    <h1>{post.data.title}</h1>
+    <p class="post-intro">{post.data.description}</p>
+    <div class="post-body" set:html={html}></div>
+    <a class="back-link" href="/blog">← Back to blog</a>
+  </article>
+</Layout>

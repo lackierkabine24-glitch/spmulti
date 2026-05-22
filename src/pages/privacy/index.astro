@@ -1,0 +1,8 @@
+---
+import Layout from '../../components/Layout.astro';
+const title = "Privacy Policy";
+const body = "<section class=\"py-5 bg-light\"><div class=\"container\"><div class=\"row justify-content-center\"><div class=\"col-12 col-xl-10\"><h1 class=\"display-5 fw-bold mb-4\">Privacy Policy</h1><p class=\"lead\">Your privacy is important to Salespeare. This page explains how we collect, use, and protect your personal information when you visit our website or contact us.</p><div class=\"mt-4\"><h2 class=\"h4 fw-bold\">Information We Collect</h2><p>We may collect contact information, inquiry details, and technical data needed to respond to your requests, provide quotes, and improve our website experience.</p><h2 class=\"h4 fw-bold\">How We Use Your Data</h2><p>We use your data to answer inquiries, process requests, and communicate about products and services. We do not sell your private information.</p><h2 class=\"h4 fw-bold\">Contact</h2><p>To review or delete your data, please contact us at <a href=\"mailto:contact@salespeare.com\">contact@salespeare.com</a>.</p></div></div></div></div></section>";
+---
+<Layout title={title}>
+  <div set:html={body} />
+</Layout>

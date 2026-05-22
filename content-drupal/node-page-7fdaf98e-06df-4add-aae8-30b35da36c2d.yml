@@ -1,0 +1,20 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: 7fdaf98e-06df-4add-aae8-30b35da36c2d
+entity_type: node
+bundle: page
+base_fields:
+  title: '85'
+  status: true
+  langcode: en
+  created: '1710733684'
+  author: contact@salespeare.com
+  revision_log_message: null
+  revision_uid: '1'
+  url: null
+custom_fields:
+  body:
+    -
+      value: '<p><strong>We sell this product currently.</strong></p><p>Please visit our &nbsp;<a href="/node/2">About Us</a> &nbsp;to contact us for price and inquiry.</p><p>&nbsp;</p><p>This page will be updated in the coming days. Thank you for understanding.</p><p>&nbsp;</p><p>&nbsp;</p><div class="w3-quarter w3-container w3-border w3-border-green w3-round-xxlarge"><p>&nbsp;</p><p>We sell machines listed on this website. Do you like to sell your machines over our sales channel? &nbsp;</p><p>We could be your new distributor.</p><img src="/p0/shell.png" alt="how to sell more" width="100%"></div>'
+      summary: ''
+      format: full_html
+      embed_entities: {  }

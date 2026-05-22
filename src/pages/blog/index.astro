@@ -1,0 +1,27 @@
+---
+const title = "Salespeare Blog – News & Industry Insights";
+import Layout from '../../components/Layout.astro';
+import { getCollection } from 'astro:content';
+const posts = await getCollection('blog');
+const sortedPosts = posts.sort((a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate));
+---
+<meta name="description" content="Latest news, industry insights, product updates, and technical articles from Salespeare.">
+<Layout title="Blog">
+  <section class="blog-hero">
+    <p class="eyebrow">Blog</p>
+    <h1>Latest stories</h1>
+    <p>Short essays, writing experiments, and ideas for practice.</p>
+  </section>
+
+  <section class="posts-list">
+    {sortedPosts.map((post) => (
+      <article class="post-card" key={post.slug}>
+        <a href={`/blog/${post.slug}`}>
+          <h2>{post.data.title}</h2>
+        </a>
+        <p>{post.data.description}</p>
+        <p class="post-meta">{post.data.pubDate}</p>
+      </article>
+    ))}
+  </section>
+</Layout>

@@ -1,0 +1,65 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: c37e1252-7ab3-4512-943c-148ebd7068ac
+entity_type: node
+bundle: page
+base_fields:
+  title: 'About Us - Since 2010'
+  status: true
+  langcode: en
+  created: '1773100980'
+  author: null
+  revision_log_message: null
+  revision_uid: '1'
+  menu_link:
+    uuid: d88f6c9b-f8d4-4213-b2c2-547974df67e6
+    entity_type: menu_link_content
+    bundle: menu_link_content
+    base_fields:
+      title: 'About Us'
+      enabled: true
+      expanded: false
+      langcode: en
+      menu_name: main
+      description: 'Since 2010'
+      link:
+        -
+          uri: 'entity:node/c37e1252-7ab3-4512-943c-148ebd7068ac'
+          title: null
+          options: {  }
+          entity:
+            uuid: c37e1252-7ab3-4512-943c-148ebd7068ac
+            entity_type: node
+            base_fields:
+              title: 'About Us - Since 2010'
+              status: true
+              langcode: en
+              created: '1773100980'
+              author: null
+              revision_log_message: null
+              revision_uid: '1'
+              url: /about-us
+            bundle: page
+      weight: -49
+      parent: ''
+    custom_fields: {  }
+  url: /about-us
+custom_fields:
+  body:
+    -
+      value: '<section class="py-5" style="background-color:#ecfeff;"><div class="container"><div class="row justify-content-center"><div class="col-12 col-xl-10"><!-- HERO --><div class="rounded-4 shadow-lg overflow-hidden mb-5"><div class="p-5"><h2 class="display-6 fw-bold text-dark mb-3">About Salespeare – Engineering Excellence Since 2010</h2><p class="lead text-dark mb-0">Your global partner for CNC machines and powder coating lines – from supply to installation and long-term support.</p></div></div><!-- CTA --><div class="text-center mb-5"><a class="btn btn-success btn-lg rounded-pill px-5 shadow" href="#contact">📲 Contact Us Now&nbsp;</a></div><!-- COMPANY --><div class="card border-0 shadow-lg rounded-4 mb-5"><div class="card-body p-4 p-md-5"><h2 class="h4 fw-bold mb-3 text-success">Who We Are</h2><p>Salespeare is an engineering company founded in Germany in 2010, with over 15 years of experience in powder coating lines and CNC machinery.</p><ul><li>Full project support: transport, installation &amp; training</li><li>Local service &amp; spare parts availability</li><li>Exclusive dealer for GCC markets</li></ul></div></div><!-- GLOBAL --><div class="row g-4 mb-5"><div class="col-md-4"><div class="p-4 rounded-4 shadow bg-white text-center h-100"><h3 class="fw-bold text-primary">Global Presence</h3><p>USA, UAE, GCC, Europe &amp; Switzerland</p></div></div><div class="col-md-4"><div class="p-4 rounded-4 shadow bg-white text-center h-100"><h3 class="fw-bold text-success">Since 2010</h3><p>Proven experience in industrial systems</p></div></div><div class="col-md-4"><div class="p-4 rounded-4 shadow bg-white text-center h-100"><h3 class="fw-bold text-primary">Trusted Partner</h3><p>Used by clients worldwide</p></div></div></div><!-- SERVICES --><div class="row g-4 mb-5"><div class="col-md-6"><div class="card border-0 shadow-lg rounded-4 h-100"><div class="card-body"><h3 class="fw-bold text-dark">What We Do</h3><ul><li>Powder coating lines</li><li>CNC machines supply</li><li>Installation &amp; training</li><li>International logistics</li></ul></div></div></div><div class="col-md-6"><div class="card border-0 shadow-lg rounded-4 h-100"><div class="card-body"><h3 class="fw-bold text-dark">Brands &amp; Equipment</h3><ul><li>Gema (Switzerland)</li><li>Nordson (USA)</li><li>Wagner (Germany)</li><li>Custom solutions available</li></ul></div></div></div></div><!-- VALUE --><div class="text-center mb-5"><div class="p-5 rounded-4 shadow-lg bg-success text-white"><h2 class="fw-bold">Up to 50% Production Increase</h2><p>Optimized powder coating systems with proven results</p></div></div><!-- CONTACT --><div class="text-center" id="contact"><div class="p-5 rounded-4 shadow-lg bg-primary text-white"><h2 class="fw-bold mb-3">Get in Touch With Our Team</h2><p>Fast response – global support – engineering expertise</p><p><a class="btn btn-light btn-lg rounded-pill px-5" href="https://wa.me/971581262774">Start WhatsApp</a></p></div></div></div></div></div></section><center><p>Picture below is AI-generated, it is not our real office. Feel free to <a href="/contact"><small>contact</small></a> us. Regards, Salespeare</p><p>&nbsp;<img src="/sites/default/files/inline-images/1247F827-A776-49FF-89CB-CEEB2CBF0192.png" data-entity-uuid="88fcd8ce-b211-4c33-be29-9b5aae32ebe8" data-entity-type="file" alt="Salespeare FZ LLC" width="25%" height="25%"></p></center>'
+      summary: ''
+      format: full_html
+      embed_entities:
+        -
+          uuid: 88fcd8ce-b211-4c33-be29-9b5aae32ebe8
+          entity_type: file
+          bundle: file
+          base_fields:
+            name: 1247F827-A776-49FF-89CB-CEEB2CBF0192.png
+            uri: 'public://inline-images/1247F827-A776-49FF-89CB-CEEB2CBF0192.png'
+            url: 'https://www.salespeare.com/sites/default/files/inline-images/1247F827-A776-49FF-89CB-CEEB2CBF0192.png'
+            status: '1'
+            created: 1776067238
+            changed: 1776067305
+            mimetype: image/png
+          custom_fields: {  }

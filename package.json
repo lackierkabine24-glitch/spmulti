@@ -1,0 +1,21 @@
+{
+  "name": "salespearepractice",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "import-pages": "node scripts/import-yml-pages.mjs content-drupal",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.1",
+    "marked": "^6.0.0"
+  },
+  "devDependencies": {
+    "astro": "^4.14.0",
+    "prettier": "^3.0.0"
+  }
+}

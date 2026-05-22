@@ -1,0 +1,83 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: f52cb4d2-2424-4b07-8c88-e23a93604177
+entity_type: node
+bundle: page
+base_fields:
+  title: 'Guide to automatic powder coating lines: Types, Benefits & Pricing'
+  status: true
+  langcode: en
+  created: '1770360135'
+  author: null
+  revision_log_message: null
+  revision_uid: '1'
+  menu_link:
+    uuid: 1357ab34-caeb-451f-a395-fb0c3ce2e68e
+    entity_type: menu_link_content
+    bundle: menu_link_content
+    base_fields:
+      title: 'Automated line'
+      enabled: true
+      expanded: false
+      langcode: en
+      menu_name: main
+      description: null
+      link:
+        -
+          uri: 'entity:node/f52cb4d2-2424-4b07-8c88-e23a93604177'
+          title: null
+          options: {  }
+          entity:
+            uuid: f52cb4d2-2424-4b07-8c88-e23a93604177
+            entity_type: node
+            base_fields:
+              title: 'Guide to automatic powder coating lines: Types, Benefits & Pricing'
+              status: true
+              langcode: en
+              created: '1770360135'
+              author: null
+              revision_log_message: null
+              revision_uid: '1'
+              url: /automated
+            bundle: page
+      weight: -50
+      parent:
+        uuid: ae96a7de-31ef-4c64-9e5c-f1eaec40b233
+        entity_type: menu_link_content
+        bundle: menu_link_content
+        base_fields:
+          title: 'Powdercoat Eq'
+          enabled: true
+          expanded: true
+          langcode: en
+          menu_name: main
+          description: null
+          link:
+            -
+              uri: 'entity:node/eb741f6f-3310-4ed2-8163-955b0e9fc2a2'
+              title: ''
+              options: {  }
+              entity:
+                uuid: eb741f6f-3310-4ed2-8163-955b0e9fc2a2
+                entity_type: node
+                base_fields:
+                  title: 'Powder coating equipment for sale'
+                  status: true
+                  langcode: en
+                  created: '1749016356'
+                  author: null
+                  revision_log_message: null
+                  revision_uid: '1'
+                  url: /powdercoat-equipment
+                bundle: page
+          weight: -48
+          parent: ''
+        custom_fields: {  }
+    custom_fields: {  }
+  url: /automated
+custom_fields:
+  body:
+    -
+      value: "<section class=\"py-5\" style=\"background-color:#f0fdf4;\"><div class=\"container\"><!-- HERO --><div class=\"rounded-4 shadow-lg p-5 mb-5\"><h2 class=\"fw-bold text-dark\">Turnkey Powder Coating Lines – Built, Installed &amp; Optimized</h2><p class=\"text-dark lead\">Design. Build. Train. Support. Increase throughput and reduce costs with proven systems.</p><p><a class=\"btn btn-success rounded-pill px-4\" href=\"https://wa.me/971581262774\">📲 Get Offer via WhatsApp</a></p></div><meta name=\"description\" content=\"Turnkey powder coating lines – design, installation &amp; training included. Increase production by up to 30%, reduce costs, and get custom systems with global delivery and fast support.\"><!-- VIDEO + DESCRIPTION --><div class=\"row g-4 mb-5\"><div class=\"col-md-6\"><div class=\"card shadow-lg border-0 rounded-4\"><video style=\"width:100%;\" controls=\"\" poster=\"/p10/automatic-powder-coating.jpg\">\r\n                    <source src=\"/mp4/automated-powder-coating-line.mp4\">\r\n                    </video></div></div><div class=\"col-md-6\"><div class=\"card shadow-lg border-0 rounded-4 p-4 h-100\"><h3 class=\"fw-bold\">Real Projects Worldwide</h3><ul><li>USA – Heavy parts (5 ton)</li><li>Denmark – Automated systems</li><li>UAE – Aluminium profiles</li><li>Qatar – Compact semi-automatic</li></ul><p class=\"text-success fw-bold\">👉 Get pricing instantly via PDF below</p></div></div></div><!-- PDF VIEWER (UNCHANGED CORE LOGIC) --><div class=\"mb-5\" id=\"PDF\"><h2 class=\"fw-bold\">View Powder Coating Systems (PDF)</h2><p><select class=\"form-select mb-3\" id=\"machineSelect\">\r\n                <option selected=\"\" disabled=\"\">Choose system...</option>\r\n                <option value=\"/p/which-powder-coating-plant.pdf\">Which system?</option>\r\n                <option value=\"/p/6m-profile-coating-plants.pdf\">6m Aluminium Line</option>\r\n                <option value=\"/p/semi-automatic.pdf\">Semi Automatic</option>\r\n                <option value=\"/p/automatic-line.pdf\">Single Conveyor</option>\r\n                <option value=\"/p/automaticpf.pdf\">Power &amp; Free</option>\r\n                </select></p><div class=\"border rounded-4\" style=\"display:none;height:600px;\" id=\"pdfViewerContainer\"><iframe id=\"pdfViewer\"></iframe></div><div class=\"alert alert-info\" id=\"noSelectionAlert\">PDF will appear here</div></div><script>\r\n        document.getElementById('machineSelect').addEventListener('change', function() {\r\n        const pdfUrl = this.value;\r\n        const viewer = document.getElementById('pdfViewer');\r\n        const container = document.getElementById('pdfViewerContainer');\r\n        const alertBox = document.getElementById('noSelectionAlert');\r\n        if(pdfUrl){\r\n        viewer.src = pdfUrl;\r\n        container.style.display='block';\r\n        alertBox.style.display='none';\r\n        }\r\n        });\r\n        </script><!-- BENEFITS --><div class=\"row g-4 mb-5\"><div class=\"col-md-6\"><div class=\"card shadow-lg border-0 rounded-4 p-4\"><h3 class=\"text-success fw-bold\">Why Choose Our Systems</h3><ul><li>✔ Up to 30% higher production</li><li>✔ Lower powder consumption</li><li>✔ Premium coating quality</li><li>✔ Fair spare parts pricing</li></ul></div></div><div class=\"col-md-6\"><div class=\"card shadow-lg border-0 rounded-4 p-4\"><h3 class=\"text-danger fw-bold\">Typical Competitor Issues</h3><ul><li>✖ Higher long-term costs</li><li>✖ Poor corner coating</li><li>✖ Powder waste</li><li>✖ Expensive spare parts</li></ul></div></div></div><!-- CTA --><div class=\"text-center\"><div class=\"p-5 rounded-4 shadow-lg bg-primary text-white\"><h2 class=\"fw-bold\">Get Your Custom Powder Coating Line</h2><p>Fast response – expert engineering – global delivery</p><p><a class=\"btn btn-light btn-lg rounded-pill px-5\" href=\"/contact\">Request Offer</a></p></div></div></div></section>"
+      summary: ''
+      format: full_html
+      embed_entities: {  }

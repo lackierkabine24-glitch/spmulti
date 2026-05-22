@@ -1,0 +1,20 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: 70fc904e-52fb-4f31-8727-a934d8a87ff1
+entity_type: node
+bundle: page
+base_fields:
+  title: '35'
+  status: true
+  langcode: en
+  created: '1710492723'
+  author: contact@salespeare.com
+  revision_log_message: null
+  revision_uid: '1'
+  url: null
+custom_fields:
+  body:
+    -
+      value: '<p>This page will be updated soon.</p><p>&nbsp;</p><p>Please visit our &nbsp;<a href="/node/2">About Us</a> &nbsp;or <a href="/node/1">main page</a> in the meantime.</p>'
+      summary: ''
+      format: full_html
+      embed_entities: {  }

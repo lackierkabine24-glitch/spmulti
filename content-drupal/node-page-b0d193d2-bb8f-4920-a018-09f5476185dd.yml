@@ -1,0 +1,38 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: b0d193d2-bb8f-4920-a018-09f5476185dd
+entity_type: node
+bundle: page
+base_fields:
+  title: 'Drop us a line'
+  status: true
+  langcode: en
+  created: '1710732441'
+  author: null
+  revision_log_message: null
+  revision_uid: '1'
+  url: /contact
+custom_fields:
+  body:
+    -
+      value: "<p>Jump to <button class=\"w-40 btn btn-sm btn-outline-primary\" type=\"button\"><a href=\"#loc\">Phone and Whatsapp <img src=\"/svg/arrow-down.svg\" alt=\"icon down\" width=\"24\" height=\"24\"></a></button></p><p>please write us an email diretly to&nbsp;<script>\r\n                                              document.write(\r\n                                                '<a href=\"mailto:' + 'contact' + '@' + 'salespeare.com' + '\">contact@salespeare.com</a>'\r\n                                              );\r\n                                            </script></p><p><iframe style=\"height:800px;width:100%;\" src=\"https://interfaces.zapier.com/embed/page/cmmah9uxo00bry82koap8e284?noBackground=false\" frameborder=\"0\"></iframe></p>"
+      summary: ''
+      format: full_html
+      embed_entities: {  }
+translations:
+  de:
+    base_fields:
+      title: 'Ihre zukünftige Dubai-Wohnung ist hier'
+      status: true
+      langcode: de
+      created: '1710732441'
+      author: null
+      revision_log_message: null
+      revision_uid: '1'
+      url: /contact
+    custom_fields:
+      body:
+        -
+          value: "<div class=\"container hero-wrap\"><div class=\"row align-items-top g-4\"><div class=\"col-lg-5\"><h2 class=\"display-6 fw-semibold mb-3\">Ihr Vorteil beginnt mit einer Anfrage</h2><p class=\"lead text-black-50 mb-4\">Transparente Fakten statt leere Versprechen</p><p>Wir antworten heute ! Email an&nbsp;<script>\r\n                                                                                                                                                                                                                                                                                                                                                              document.write(\r\n                                                                                                                                                                                                                                                                                                                                                                '<a href=\"mailto:' + 'contact' + '@' + 'salespeare.com' + '\">contact@salespeare.com</a>'\r\n                                                                                                                                                                                                                                                                                                                                                              );\r\n                                                                                                                                                                                                                                                                                                                                                            </script></p></div></div></div><hr><p>&nbsp;</p><p><iframe style=\"height:800px;max-width:900px;width:100%;\" src=\"https://interfaces.zapier.com/embed/page/cmm4zcslk00aaili2hns2f715?noBackground=false\" data-testid=\"cmm4zcslk00aaili2hns2f715-zapier-interfaces-page-embed-iframe\"></iframe></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><div class=\"col-lg-7\"><div class=\"card card-glass rounded-4\"><div class=\"card-body p-4 p-md-5\"><p>Erfahren Sie, was andere Käufer nicht wissen &nbsp;&nbsp;<a class=\"btn btn-primary btn-sm\" href=\"https://wa.me/41794757233?text=DuWo%20Beschreiben%20Sie%20einfach!%20was%20Sie%20suchen,%20wir%0finden%20es…\" target=\"_blank\">Sprachnachricht schicken</a></p><p>Gehe zu &nbsp;<button class=\"w-40 btn btn-sm btn-outline-primary\" type=\"button\"><a href=\"#loc\">Telefon und WhatsApp <img src=\"/svg/arrow-down.svg\" alt=\"icon down\" width=\"24\" height=\"24\"></a></button></p><p>oder schreiben Sie uns direkt eine Email an&nbsp;<script>\r\n                                                                                                                                                                                                                                                                                                                                                              document.write(\r\n                                                                                                                                                                                                                                                                                                                                                                '<a href=\"mailto:' + 'contact' + '@' + 'salespeare.com' + '\">contact@salespeare.com</a>'\r\n                                                                                                                                                                                                                                                                                                                                                              );\r\n                                                                                                                                                                                                                                                                                                                                                            </script></p><p class=\"lead text-black-50 mb-4\"><img src=\"/p0/pdf.png\" alt=\"link\" width=\"48\" height=\"48\" loading=\"lazy\"> <a href=\"/p/dubai-wohnung-kaufen.pdf\" target=\"_blank\"><button>Preise Wohnungen 2026</button></a></p><div class=\"d-flex align-items-start justify-content-between gap-3 mb-3\"><img class=\"card-img-top\" src=\"/p50/dubai1.png\" alt=\"Apartment Innenraum Dubai\" width=\"10%\" height=\"10%\"></div></div></div></div>"
+          summary: ''
+          format: full_html
+          embed_entities: {  }

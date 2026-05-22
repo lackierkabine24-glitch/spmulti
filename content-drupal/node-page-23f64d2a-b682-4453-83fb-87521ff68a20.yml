@@ -1,0 +1,20 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: 23f64d2a-b682-4453-83fb-87521ff68a20
+entity_type: node
+bundle: page
+base_fields:
+  title: '49'
+  status: true
+  langcode: en
+  created: '1710732527'
+  author: contact@salespeare.com
+  revision_log_message: null
+  revision_uid: '1'
+  url: null
+custom_fields:
+  body:
+    -
+      value: '<p><strong>We sell this product currently.</strong></p><p>Please visit our &nbsp;<a href="/node/2">About Us</a> &nbsp;to contact us for price and inquiry.</p><p>&nbsp;</p><p>This page will be updated in the coming days. Thank you for understanding.</p>'
+      summary: ''
+      format: full_html
+      embed_entities: {  }

@@ -1,0 +1,83 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: 02f046bd-028a-47df-a802-8a48607e93fa
+entity_type: node
+bundle: page
+base_fields:
+  title: 'Aluminium Profile Powder Coating Plant – High Output (vertical) Automated Lines for Extrusion Production'
+  status: true
+  langcode: en
+  created: '1767683930'
+  author: null
+  revision_log_message: null
+  revision_uid: '1'
+  menu_link:
+    uuid: f9265f05-6159-4b66-a6da-308a0412a104
+    entity_type: menu_link_content
+    bundle: menu_link_content
+    base_fields:
+      title: 'Alu profiles plant'
+      enabled: true
+      expanded: false
+      langcode: en
+      menu_name: main
+      description: 'Fully automatic coating of alu-profiles'
+      link:
+        -
+          uri: 'entity:node/02f046bd-028a-47df-a802-8a48607e93fa'
+          title: null
+          options: {  }
+          entity:
+            uuid: 02f046bd-028a-47df-a802-8a48607e93fa
+            entity_type: node
+            base_fields:
+              title: 'Aluminium Profile Powder Coating Plant – High Output (vertical) Automated Lines for Extrusion Production'
+              status: true
+              langcode: en
+              created: '1767683930'
+              author: null
+              revision_log_message: null
+              revision_uid: '1'
+              url: /powdercoat-aluminium-profiles
+            bundle: page
+      weight: -45
+      parent:
+        uuid: ae96a7de-31ef-4c64-9e5c-f1eaec40b233
+        entity_type: menu_link_content
+        bundle: menu_link_content
+        base_fields:
+          title: 'Powdercoat Eq'
+          enabled: true
+          expanded: true
+          langcode: en
+          menu_name: main
+          description: null
+          link:
+            -
+              uri: 'entity:node/eb741f6f-3310-4ed2-8163-955b0e9fc2a2'
+              title: ''
+              options: {  }
+              entity:
+                uuid: eb741f6f-3310-4ed2-8163-955b0e9fc2a2
+                entity_type: node
+                base_fields:
+                  title: 'Powder coating equipment for sale'
+                  status: true
+                  langcode: en
+                  created: '1749016356'
+                  author: null
+                  revision_log_message: null
+                  revision_uid: '1'
+                  url: /powdercoat-equipment
+                bundle: page
+          weight: -48
+          parent: ''
+        custom_fields: {  }
+    custom_fields: {  }
+  url: /powdercoat-aluminium-profiles
+custom_fields:
+  body:
+    -
+      value: "<div class=\"container py-5\"><!-- HERO --><div class=\"text-center mb-5\"><h2 class=\"fw-bold\">Aluminium Powder Coating Plants – High Output, Space-Saving Solutions</h2><p class=\"lead text-muted\">Turnkey automated coating lines designed for aluminium extrusion plants – maximize production, reduce space, and ensure premium surface quality.</p><p><a class=\"btn btn-primary btn-lg mt-3\" href=\"https://wa.me/971581262774?text=Photo%20of%20your%20businesscard%20please\" target=\"_blank\" rel=\"noopener noreferrer\">Get Project Consultation on WhatsApp&nbsp;</a></p></div><!-- META --><div class=\"d-none\"><meta name=\"description\" content=\"Aluminium powder coating plant supplier UAE. Turnkey automated coating lines for extrusion profiles with high efficiency, compact layout and premium finish quality.\"></div><!-- INTRO --><div class=\"row mb-5 align-items-center\"><div class=\"col-md-6\"><p>Our aluminium powder coating plants are engineered for high-capacity extrusion lines, delivering consistent coating quality while minimizing footprint.</p><p>Designed for modern factories, these systems combine automation, energy efficiency, and intelligent process control to achieve maximum productivity.</p></div><div class=\"col-md-6\"><p><video class=\"w-100 rounded-4\" controls=\"\" playsinline=\"\" poster=\"/p10/pfusa.jpg\">\r\n        <source src=\"/mp4/pfusa.mp4\" type=\"video/mp4\">\r\n      </video></p><p class=\"small text-muted mt-2\">USA installation – power &amp; free system with optimized layout</p></div></div><!-- PROJECTS --><div class=\"row g-4 mb-5\"><div class=\"col-md-6\"><div class=\"card h-100 shadow rounded-4\"><p><video class=\"w-100 rounded-top-4\" controls=\"\" playsinline=\"\" poster=\"/p10/pfajman.jpg\">\r\n          <source src=\"/mp4/pfajman.mp4\" type=\"video/mp4\">\r\n        </video></p><div class=\"card-body\"><h4>UAE 2024 Aluminium Plant</h4><p>7-meter profile coating line with advanced power &amp; free conveyor system.</p><p class=\"text-muted\">Optimized layout for reduced space and increased throughput.</p></div></div></div><div class=\"col-md-6\"><div class=\"card h-100 shadow rounded-4\"><p><video class=\"w-100 rounded-top-4\" autoplay=\"\" loop=\"\" muted=\"\" playsinline=\"\" poster=\"/p11/1.webp\">\r\n          <source src=\"/mp4/powder-coating-project.mp4\" type=\"video/mp4\">\r\n        </video></p><div class=\"card-body\"><h4>High-Speed Production Line</h4><p>Automated aluminium coating for large-scale production with consistent finish.</p></div></div></div></div><!-- SYSTEM OVERVIEW --><div class=\"bg-light p-5 rounded-4 mb-5\"><h3 class=\"text-center mb-4\">Complete Aluminium Powder Coating Line Includes</h3><div class=\"row\"><div class=\"col-md-6\"><ul><li>Nano pre-treatment or 5–7 tank systems</li><li>Drying oven</li><li>Detection systems (2D / 3D measurement)</li><li>Automatic spray guns with scanning</li></ul></div><div class=\"col-md-6\"><ul><li>Plastic booth with cyclone recovery</li><li>Powder center</li><li>Curing oven (energy optimized)</li><li>Conveyor system (power &amp; free)</li></ul></div></div></div><!-- COMPONENTS --><div class=\"row mb-5\"><div class=\"col-md-6\"><h4>Core Process Components</h4><ul><li>Pre-treatment for adhesion &amp; corrosion resistance</li><li>Powder booths with up to 95% recovery</li><li>Energy-efficient curing ovens</li><li>Quality inspection stations</li><li>Robotic coating options</li></ul></div><div class=\"col-md-6\"><h4>Advanced Automation</h4><ul><li>3D scanning for profile detection</li><li>Automatic gun positioning &amp; stroke control</li><li>Central powder hopper system</li><li>Touchscreen control panel</li><li>Remote maintenance &amp; data tracking</li></ul></div></div><!-- BENEFITS --><div class=\"row g-4 mb-5 text-center\"><div class=\"col-md-3\"><div class=\"p-4 border rounded-4\"><h5>High Output</h5><p>Process large volumes of profiles efficiently.</p></div></div><div class=\"col-md-3\"><div class=\"p-4 border rounded-4\"><h5>Space Saving</h5><p>Compact plant layout vs traditional systems.</p></div></div><div class=\"col-md-3\"><div class=\"p-4 border rounded-4\"><h5>Energy Efficient</h5><p>Optimized ovens and recovery systems.</p></div></div><div class=\"col-md-3\"><div class=\"p-4 border rounded-4\"><h5>Premium Finish</h5><p>Uniform coating and high durability.</p></div></div></div><!-- BENEFITS TEXT --><div class=\"row mb-5\"><div class=\"col-md-6\"><h4>Why Powder Coating for Aluminium?</h4><ul><li>High resistance to UV, corrosion, and chemicals</li><li>Wide range of colors and finishes</li><li>Eco-friendly (no VOC emissions)</li><li>Long lifecycle and reduced maintenance costs</li></ul></div><div class=\"col-md-6\"><img class=\"img-fluid rounded-4\" src=\"/p11/3.webp\" alt=\"powder coating booth cyclone system aluminium plant\" loading=\"lazy\"></div></div><!-- CTA --><div class=\"text-center bg-dark text-white p-5 rounded-4\"><h3>Plan Your Aluminium Powder Coating Line</h3><p>Get a customized solution designed for your extrusion plant.</p><p><a class=\"btn btn-primary btn-lg\" href=\"/contact\">Request Your Quote This Week</a></p></div></div>"
+      summary: ''
+      format: full_html
+      embed_entities: {  }

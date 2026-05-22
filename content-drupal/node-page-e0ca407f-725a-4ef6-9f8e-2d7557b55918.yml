@@ -1,0 +1,20 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: e0ca407f-725a-4ef6-9f8e-2d7557b55918
+entity_type: node
+bundle: page
+base_fields:
+  title: '43'
+  status: true
+  langcode: en
+  created: '1710732396'
+  author: contact@salespeare.com
+  revision_log_message: null
+  revision_uid: '1'
+  url: null
+custom_fields:
+  body:
+    -
+      value: "<style>\r\n                .pdf-container {\r\n                    height: 600px;\r\n                    margin-top: 20px;\r\n                    border: 1px solid #ddd;\r\n                    border-radius: 5px;\r\n                }\r\n                iframe {\r\n                    width: 100%;\r\n                    height: 100%;\r\n                    border: none;\r\n                }\r\n            </style><p>&nbsp;</p><div class=\"container mt-5\"><h2 class=\"mb-4\">Machine Model Documentation</h2><div class=\"row\"><div class=\"col-md-6\"><div class=\"mb-3\"><label class=\"form-label\" for=\"machineSelect\">Select Machine Model:</label> <select class=\"form-select\" id=\"machineSelect\">\r\n                                                                                        <option value=\"\" selected=\"\" disabled=\"\">Choose a model...</option>\r\n                                                                                        <option value=\"/p/salespeare.pdf\">Coating lines overview</option>\r\n                                                                                        <option value=\"/p/automatic-line.pdf\">Automated coating line</option>\r\n                                                                                        <option value=\"/p/oven.pdf\">Oven for powdercoat</option>\r\n                                                                                        <option value=\"/p/booth.pdf\">Booth for powdercoat</option>\r\n                <option value=\"/p/mdf-powder-coating-line.pdf\">MDF wood powdercoat</option>\r\n                                                                                    </select></div></div></div><div class=\"pdf-container\" style=\"display:none;\" id=\"pdfViewerContainer\"><iframe id=\"pdfViewer\" src=\"\" allowfullscreen=\"\"></iframe></div><div class=\"alert alert-info mt-3\" id=\"noSelectionAlert\">Please select a machine model to view its documentation.</div></div><p><script>\r\n                        document.getElementById('machineSelect').addEventListener('change', function() {\r\n                            const pdfUrl = this.value;\r\n                            const pdfViewerContainer = document.getElementById('pdfViewerContainer');\r\n                            const pdfViewer = document.getElementById('pdfViewer');\r\n                            const noSelectionAlert = document.getElementById('noSelectionAlert');\r\n                            \r\n                            if (pdfUrl) {\r\n                                pdfViewer.src = pdfUrl;\r\n                                pdfViewerContainer.style.display = 'block';\r\n                                noSelectionAlert.style.display = 'none';\r\n                            } else {\r\n                                pdfViewerContainer.style.display = 'none';\r\n                                noSelectionAlert.style.display = 'block';\r\n                            }\r\n                        });\r\n                    </script></p>"
+      summary: ''
+      format: full_html
+      embed_entities: {  }

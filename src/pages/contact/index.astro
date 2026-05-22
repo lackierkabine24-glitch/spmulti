@@ -1,0 +1,10 @@
+---
+import Layout from '../../components/Layout.astro';
+const title = "Contact Salespeare – Get in Touch With Our Engineering Team";
+const body = "<p>Jump to <button class=\"w-40 btn btn-sm btn-outline-primary\" type=\"button\"><a href=\"#loc\">Phone and Whatsapp <img src=\"/svg/arrow-down.svg\" alt=\"icon down\" width=\"24\" height=\"24\"></a></button></p><p>please write us an email diretly to&nbsp;</p><p><iframe style=\"height:800px;width:100%;\" src=\"https://interfaces.zapier.com/embed/page/cmmah9uxo00bry82koap8e284?noBackground=false\" frameborder=\"0\"></iframe></p>";
+---
+<meta name="description" content="Contact Salespeare for CNC machines, powder coating equipment, pricing, availability, installation support, and technical advice. Fast response, global shipping available.">
+<Layout title={title}>
+    <h1>Contact Salespeare – Get in Touch With Our Engineering Team</h1>
+<div set:html={body} />
+</Layout>

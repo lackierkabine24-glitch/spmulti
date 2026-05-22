@@ -1,0 +1,83 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: d8a21d1f-5741-4a4f-949c-7b6b8ed4e0ce
+entity_type: node
+bundle: page
+base_fields:
+  title: 'Used Sliding Table Saw Machines in UAE – Woodworking Panel Saws in Stock'
+  status: true
+  langcode: en
+  created: '1773393300'
+  author: null
+  revision_log_message: null
+  revision_uid: '1'
+  menu_link:
+    uuid: f3e8929f-0628-4136-9997-8f767b6d39c1
+    entity_type: menu_link_content
+    bundle: menu_link_content
+    base_fields:
+      title: 'Sliding table saw'
+      enabled: true
+      expanded: false
+      langcode: en
+      menu_name: main
+      description: 'Panel saw'
+      link:
+        -
+          uri: 'entity:node/d8a21d1f-5741-4a4f-949c-7b6b8ed4e0ce'
+          title: null
+          options: {  }
+          entity:
+            uuid: d8a21d1f-5741-4a4f-949c-7b6b8ed4e0ce
+            entity_type: node
+            base_fields:
+              title: 'Used Sliding Table Saw Machines in UAE – Woodworking Panel Saws in Stock'
+              status: true
+              langcode: en
+              created: '1773393300'
+              author: null
+              revision_log_message: null
+              revision_uid: '1'
+              url: /sliding-table-saw
+            bundle: page
+      weight: -47
+      parent:
+        uuid: 77c96b45-0424-4059-8f24-d0db4a2b6488
+        entity_type: menu_link_content
+        bundle: menu_link_content
+        base_fields:
+          title: 'CNC Machines'
+          enabled: true
+          expanded: true
+          langcode: en
+          menu_name: main
+          description: null
+          link:
+            -
+              uri: 'entity:node/1abc61df-a56b-4c23-a7f1-8ddb7143be75'
+              title: ''
+              options: {  }
+              entity:
+                uuid: 1abc61df-a56b-4c23-a7f1-8ddb7143be75
+                entity_type: node
+                base_fields:
+                  title: 'CNC Machines prices in UAE overview'
+                  status: true
+                  langcode: en
+                  created: '1744082779'
+                  author: null
+                  revision_log_message: null
+                  revision_uid: '1'
+                  url: /cnc-machine-supplier
+                bundle: page
+          weight: -46
+          parent: ''
+        custom_fields: {  }
+    custom_fields: {  }
+  url: /sliding-table-saw
+custom_fields:
+  body:
+    -
+      value: "<section class=\"py-5 bg-light\"><div class=\"container\"><!-- HERO --><div class=\"row align-items-center g-4 mb-5\"><div class=\"col-lg-7\"><p><span class=\"badge bg-warning text-dark mb-3\">Used woodworking machines in the UAE</span></p><h2 class=\"display-5 fw-bold mb-3\">Used Sliding Table Saw Machines for Sale in the UAE</h2><p class=\"lead text-secondary mb-4\">Buy reliable used sliding table saw machines in Dubai for cabinet making, furniture production, and panel processing. We offer inspected and refurbished machines from trusted brands, ready for delivery across the UAE and GCC.</p><div class=\"d-flex flex-wrap gap-2 mb-4\"><a class=\"btn btn-warning btn-lg text-dark fw-semibold\" href=\"/used-machines\" target=\"_blank\">View Available Machines</a> <a class=\"btn btn-outline-dark btn-lg\" href=\"#why-buy\">Why Buy From Us</a></div><div class=\"row row-cols-1 row-cols-sm-3 g-3 small text-secondary\"><div class=\"col\"><div class=\"border rounded-3 bg-white p-3 h-100\"><strong class=\"d-block text-dark\">Location</strong> Dubai storage</div></div><div class=\"col\"><div class=\"border rounded-3 bg-white p-3 h-100\"><strong class=\"d-block text-dark\">Service Area</strong> UAE + GCC</div></div><div class=\"col\"><div class=\"border rounded-3 bg-white p-3 h-100\"><strong class=\"d-block text-dark\">Condition</strong> Refurbished &amp; ready to use</div></div></div></div><meta name=\"description\" content=\"Used sliding table saw machines for sale in Dubai, UAE – Altendorf, Martin and refurbished woodworking saws. Ready stock with delivery, startup support and GCC-wide service for furniture and cabinet workshops.\"><div class=\"col-lg-5\"><div class=\"card border-0 shadow-sm rounded-4 overflow-hidden\"><img class=\"img-fluid\" src=\"/u1/altendorf-martin-sliding-table-saw.jpg\" alt=\"Used Altendorf and Martin sliding table saw machines for sale in Dubai UAE\" width=\"2303\" height=\"1529\" loading=\"eager\"><div class=\"card-body p-4\"><p class=\"h4 mb-3\">German brands available</p><p class=\"text-secondary mb-3\">Used <strong>Altendorf</strong> and <strong>Martin</strong> sliding table saws for professional woodworking shops.</p><ul class=\"list-unstyled mb-0\"><li class=\"mb-2\">✔ Ideal for panel sizing, furniture, and joinery work</li><li class=\"mb-2\">✔ Delivery and startup support available</li><li>✔ Suitable for workshops across the UAE and GCC</li></ul></div></div></div></div><!-- MACHINE LIST --><div class=\"d-flex justify-content-between align-items-end flex-wrap gap-3 mb-4\"><div><h2 class=\"h2 mb-2\">New &amp; Used Sliding Table Saw Machines</h2><p class=\"text-secondary mb-0\">Stock changes regularly. Contact us for the latest available models and specifications.</p></div><p><a class=\"btn btn-outline-warning fw-semibold\" href=\"/used-machines\" target=\"_blank\">See full used machine list</a></p></div><div class=\"row g-4 mb-5\"><div class=\"col-md-6 col-xl-4\"><article class=\"card h-100 border-0 shadow-sm rounded-4 overflow-hidden\"><img class=\"card-img-top\" src=\"/u1/sliding-panel-saw-for-sale.jpg\" alt=\"Used sliding panel saw machine for sale in the UAE\" width=\"1600\" height=\"1200\" loading=\"lazy\"><div class=\"card-body p-4\"><h3 class=\"h4 card-title\">Altendorf Sliding Table Saws</h3><p class=\"text-secondary\">Affordable used sliding table saw machine for accurate cutting of large boards, plywood, and sheet materials.</p><ul class=\"small text-secondary ps-3 mb-4\"><li>Smooth sliding table for stable panel cutting</li><li>Suitable for cabinet and furniture workshops</li><li>Reliable industrial performance</li></ul><p><a class=\"btn btn-warning text-dark fw-semibold\" href=\"/used-machines\">Request details</a></p></div></article></div><div class=\"col-md-6 col-xl-4\"><article class=\"card h-100 border-0 shadow-sm rounded-4 overflow-hidden\"><img class=\"card-img-top\" src=\"/u1/sliding-table-saw.jpg\" alt=\"Used sliding table saw for woodworking shops in Dubai\" width=\"1600\" height=\"1200\" loading=\"lazy\"><div class=\"card-body p-4\"><h3 class=\"h4 card-title\">Martin Sliding Table Saws</h3><p class=\"text-secondary\">A practical choice for workshops producing custom furniture, cabinets, wardrobes, and interior fit-out components.</p><ul class=\"small text-secondary ps-3 mb-4\"><li>High cutting precision</li><li>Good for daily workshop use</li><li>Built for professional woodworking</li></ul><p><a class=\"btn btn-warning text-dark fw-semibold\" href=\"/used-machines\" target=\"_blank\">Check availability</a></p></div></article></div><div class=\"col-md-6 col-xl-4\"><article class=\"card h-100 border-0 shadow-sm rounded-4 overflow-hidden\"><img class=\"card-img-top\" src=\"/u1/sliding-saw-machine.jpg\" alt=\"Refurbished sliding saw machine in Dubai storage\" width=\"1600\" height=\"1200\" loading=\"lazy\"><div class=\"card-body p-4\"><h3 class=\"h4 card-title\">New Sliding Table Saw Machine</h3><p class=\"text-secondary\">Refurbished sliding saw machine stored in Dubai and available for customers across the UAE and wider GCC region.</p><ul class=\"small text-secondary ps-3 mb-4\"><li>Dubai storage location</li><li>Transport support available</li><li>Startup support across GCC</li></ul><p><a class=\"btn btn-warning text-dark fw-semibold\" href=\"/used-machines\" target=\"_blank\">View similar machines</a></p></div></article></div></div><!-- WHY BUY --><div class=\"row g-4 align-items-stretch mb-5\" id=\"why-buy\"><div class=\"col-lg-6\"><div class=\"bg-white border rounded-4 p-4 h-100 shadow-sm\"><h2 class=\"h3 mb-3\">Why buy a used sliding table saw in UAE?</h2><p class=\"text-secondary\">Buying a used machine should save money without creating chaos in your workshop. That is the whole game.</p><ul class=\"mb-0 ps-3 text-secondary\"><li class=\"mb-2\">Machines selected for professional woodworking applications</li><li class=\"mb-2\">Refurbished units available and ready for operation</li><li class=\"mb-2\">Support for transport, installation, and startup</li><li class=\"mb-2\">Dubai-based stock for easier inspection and logistics</li><li>Coverage for customers across the UAE and GCC</li></ul></div></div><div class=\"col-lg-6\"><div class=\"bg-dark text-white rounded-4 p-4 h-100 shadow-sm\"><p class=\"h3 mb-3\">Best for these industries</p><div class=\"row row-cols-1 row-cols-sm-2 g-3\"><div class=\"col\"><div class=\"border rounded-3 p-3 h-100\">Cabinet manufacturing</div></div><div class=\"col\"><div class=\"border rounded-3 p-3 h-100\">Furniture production</div></div><div class=\"col\"><div class=\"border rounded-3 p-3 h-100\">Interior fit-out workshops</div></div><div class=\"col\"><div class=\"border rounded-3 p-3 h-100\">Joinery and carpentry shops</div></div></div></div></div></div><!-- SEO CONTENT --><div class=\"row justify-content-center\"><div class=\"col-xl-10\"><h2 class=\"h2 mb-3\">Used Sliding Table Saws in Dubai and Across the UAE</h2><p class=\"text-secondary\">If you are looking for a <strong>used sliding table saw in Dubai</strong>, Sharjah, Abu Dhabi, or elsewhere in the UAE, we can help you find a machine suited to your production needs and budget. Sliding table saws are widely used for precise cutting of MDF, plywood, laminated boards, and solid wood components in professional woodworking shops.</p><p class=\"text-secondary\">Our stock may include machines from established European brands such as <strong>Altendorf</strong> and <strong>Martin</strong>, known for accurate cutting, strong build quality, and long service life. Whether you need a saw for cabinet making, furniture manufacturing, or general panel processing, a properly selected used machine can be a cost-effective investment.</p></div></div><!-- FAQ --><div class=\"row justify-content-center mt-5\"><div class=\"col-xl-10\"><p class=\"h2 mb-4\">Frequently Asked Questions</p><div class=\"accordion\" id=\"faqSlidingSaw\"><div class=\"accordion-item\"><h3 class=\"accordion-header\" id=\"faqOne\"><button class=\"accordion-button\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">\r\n                                                                                                                                                                                                                                                Do you sell used sliding table saw machines in Dubai?\r\n                                                                                                                                                                                                                                              </button></h3><div class=\"accordion-collapse collapse show\" id=\"collapseOne\" aria-labelledby=\"faqOne\" data-bs-parent=\"#faqSlidingSaw\"><div class=\"accordion-body\">Yes. We offer used sliding table saw machines stored in Dubai and support customers across the UAE.</div></div></div><div class=\"accordion-item\"><h3 class=\"accordion-header\" id=\"faqTwo\"><button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">\r\n                                                                                                                                                                                                                                                Can you arrange delivery and startup?\r\n                                                                                                                                                                                                                                              </button></h3><div class=\"accordion-collapse collapse\" id=\"collapseTwo\" aria-labelledby=\"faqTwo\" data-bs-parent=\"#faqSlidingSaw\"><div class=\"accordion-body\">Yes. Delivery, transport coordination, and startup support can be arranged across the UAE and GCC.</div></div></div><div class=\"accordion-item\"><h3 class=\"accordion-header\" id=\"faqThree\"><button class=\"accordion-button collapsed\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">\r\n                                                                                                                                                                                                                                                Which brands do you usually stock?\r\n                                                                                                                                                                                                                                              </button></h3><div class=\"accordion-collapse collapse\" id=\"collapseThree\" aria-labelledby=\"faqThree\" data-bs-parent=\"#faqSlidingSaw\"><div class=\"accordion-body\">Stock varies, but it may include professional brands such as Altendorf and Martin, depending on availability.</div></div></div></div></div></div><!-- CTA --><div class=\"row mt-5\"><div class=\"col-12\"><div class=\"bg-warning rounded-4 p-4 p-lg-5 text-dark shadow-sm\"><div class=\"row align-items-center g-3\"><div class=\"col-lg-8\"><h3 class=\"h3 fw-bold mb-2\">Need a used sliding table saw machine now?</h3><p class=\"mb-0\">Contact us for current stock, machine specifications, pricing, and delivery options in the UAE and GCC.</p></div><div class=\"col-lg-4 text-lg-end\"><a class=\"btn btn-dark btn-lg\" href=\"/used-machines\" target=\"_blank\">Browse used machines</a></div></div></div></div></div></div></section><title>Used Sliding Table Saw Machines for Sale in Dubai, UAE</title><meta name=\"description\" content=\"Buy used sliding table saw machines in Dubai, UAE. Refurbished woodworking machines from trusted brands such as Altendorf and Martin. Delivery and startup support available across the UAE and GCC.\"><link rel=\"canonical\" href=\"https://www.salespeare.com/sliding-table-saw\"><script type=\"application/ld+json\">\r\n{\r\n  \"@context\": \"https://schema.org\",\r\n  \"@type\": \"FAQPage\",\r\n  \"mainEntity\": [\r\n    {\r\n      \"@type\": \"Question\",\r\n      \"name\": \"Do you sell used sliding table saw machines in Dubai?\",\r\n      \"acceptedAnswer\": {\r\n        \"@type\": \"Answer\",\r\n        \"text\": \"Yes. We offer used sliding table saw machines stored in Dubai and support customers across the UAE.\"\r\n      }\r\n    },\r\n    {\r\n      \"@type\": \"Question\",\r\n      \"name\": \"Can you arrange delivery and startup?\",\r\n      \"acceptedAnswer\": {\r\n        \"@type\": \"Answer\",\r\n        \"text\": \"Yes. Delivery, transport coordination, and startup support can be arranged across the UAE and GCC.\"\r\n      }\r\n    },\r\n    {\r\n      \"@type\": \"Question\",\r\n      \"name\": \"Which brands do you usually stock?\",\r\n      \"acceptedAnswer\": {\r\n        \"@type\": \"Answer\",\r\n        \"text\": \"Stock varies, but it may include professional brands such as Altendorf and Martin, depending on availability.\"\r\n      }\r\n    }\r\n  ]\r\n}\r\n</script>"
+      summary: ''
+      format: full_html
+      embed_entities: {  }

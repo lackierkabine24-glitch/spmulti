@@ -1,0 +1,83 @@
+site_uuid: 82484a04-dc08-4b0d-91ea-588c477ba0e9
+uuid: 7da8460c-94cc-40e3-8e86-f7fced3aee12
+entity_type: node
+bundle: page
+base_fields:
+  title: 'Used CNC Milling Machines for Metal in UAE – In Stock, Tested & Ready for Production'
+  status: true
+  langcode: en
+  created: '1710492529'
+  author: null
+  revision_log_message: null
+  revision_uid: '1'
+  menu_link:
+    uuid: b8b3ed59-317f-4ce5-a517-af833d67eb2f
+    entity_type: menu_link_content
+    bundle: menu_link_content
+    base_fields:
+      title: 'CNC Miling'
+      enabled: true
+      expanded: false
+      langcode: en
+      menu_name: main
+      description: null
+      link:
+        -
+          uri: 'entity:node/7da8460c-94cc-40e3-8e86-f7fced3aee12'
+          title: null
+          options: {  }
+          entity:
+            uuid: 7da8460c-94cc-40e3-8e86-f7fced3aee12
+            entity_type: node
+            base_fields:
+              title: 'Used CNC Milling Machines for Metal in UAE – In Stock, Tested & Ready for Production'
+              status: true
+              langcode: en
+              created: '1710492529'
+              author: null
+              revision_log_message: null
+              revision_uid: '1'
+              url: /cnc-milling
+            bundle: page
+      weight: -42
+      parent:
+        uuid: 77c96b45-0424-4059-8f24-d0db4a2b6488
+        entity_type: menu_link_content
+        bundle: menu_link_content
+        base_fields:
+          title: 'CNC Machines'
+          enabled: true
+          expanded: true
+          langcode: en
+          menu_name: main
+          description: null
+          link:
+            -
+              uri: 'entity:node/1abc61df-a56b-4c23-a7f1-8ddb7143be75'
+              title: ''
+              options: {  }
+              entity:
+                uuid: 1abc61df-a56b-4c23-a7f1-8ddb7143be75
+                entity_type: node
+                base_fields:
+                  title: 'CNC Machines prices in UAE overview'
+                  status: true
+                  langcode: en
+                  created: '1744082779'
+                  author: null
+                  revision_log_message: null
+                  revision_uid: '1'
+                  url: /cnc-machine-supplier
+                bundle: page
+          weight: -46
+          parent: ''
+        custom_fields: {  }
+    custom_fields: {  }
+  url: /cnc-milling
+custom_fields:
+  body:
+    -
+      value: '<section class="py-5 bg-light" id="used-cnc-milling-machines"><div class="container"><div class="row align-items-center g-4 mb-5"><div class="col-lg-7"><p><span class="badge bg-warning text-dark mb-3">Used CNC and precision machining equipment in Abu Dhabi, Dubai and across the UAE</span></p><h2 class="display-5 fw-bold mb-3">Used CNC Milling Machines for Sale in the UAE</h2><p class="lead text-secondary mb-4">Explore used CNC milling machines for precision machining, toolroom work, prototype development and industrial production, with support for pricing, photos and delivery across the UAE and GCC.</p><div class="d-flex flex-wrap gap-2 mb-4"><a class="btn btn-warning btn-lg text-dark fw-semibold" href="#content-overview">View Page Sections</a> <a class="btn btn-outline-dark btn-lg" href="/contact">Request Photos and Price</a></div><meta name="description" content="Looking for a CNC milling machine for metal in UAE? Find in-stock CNC mills and VMC machines for precision engineering and production. Available in Dubai, Abu Dhabi and Sharjah. Request pricing, specs and machine details today."><div class="row g-3"><div class="col-sm-4"><div class="bg-white border rounded-4 p-3 h-100"><strong class="d-block text-dark">Focus</strong> Used CNC milling equipment</div></div><div class="col-sm-4"><div class="bg-white border rounded-4 p-3 h-100"><strong class="d-block text-dark">Locations</strong> Abu Dhabi and Dubai storage</div></div><div class="col-sm-4"><div class="bg-white border rounded-4 p-3 h-100"><strong class="d-block text-dark">Support</strong> Photos, price and logistics guidance</div></div></div></div><div class="col-lg-5"><div class="card border-0 shadow-sm rounded-4 overflow-hidden h-100"><img class="img-fluid" src="/u1/cnc-milling.jpg" alt="Used CNC milling machine for sale in the UAE" width="634" height="465" loading="eager"><div class="card-body p-4"><h2 class="h4 mb-3">Featured milling category</h2><p class="text-secondary mb-3">Used CNC milling machines for accurate metal cutting, prototyping and repeatable production work.</p><ul class="list-unstyled mb-0"><li class="mb-2"> Precision machining solutions</li><li class="mb-2"> Workshop-ready equipment</li><li class="mb-2"> UAE and GCC delivery support</li></ul></div></div></div></div><div class="row g-4 mb-5"><div class="col-md-4"><article class="card h-100 border-0 shadow-sm rounded-4"><div class="card-body p-4"><h2 class="h4 mb-3">Precision CNC Milling</h2><p class="text-secondary mb-0">For accurate machining of metal parts, molds, fixtures and industrial components.</p></div></article></div><div class="col-md-4"><article class="card h-100 border-0 shadow-sm rounded-4"><div class="card-body p-4"><h2 class="h4 mb-3">Engineering Applications</h2><p class="text-secondary mb-0">Suitable for prototype work, production batches and toolroom operations.</p></div></article></div><div class="col-md-4"><article class="card h-100 border-0 shadow-sm rounded-4"><div class="card-body p-4"><h2 class="h4 mb-3">Regional Availability</h2><p class="text-secondary mb-0">Machines can be supplied across the UAE and wider GCC region.</p></div></article></div></div><div class="row mb-4" id="content-overview"><div class="col-lg-9"><h2 class="h2 fw-bold mb-2">Structured Content Overview</h2><p class="text-secondary mb-0">This page has been rebuilt in the same organized Bootstrap 5 style as the edge-banding layout, with a clear hero section, feature cards and clean content blocks for readability and SEO structure.</p></div><div class="col-lg-3 text-lg-end mt-3 mt-lg-0"><a class="btn btn-outline-warning fw-semibold" href="/contact">Ask for latest availability</a></div></div><section class="mb-5" id="section-1"><div class="row g-4 align-items-start"><div class="col-lg-4"><div class="position-sticky" style="top:2rem;"><p><span class="badge bg-warning text-dark mb-3">Section 1</span></p><h2 class="h3 fw-bold mb-0">The Evolution of Precision Machining</h2></div></div><div class="col-lg-8"><div class="card border-0 shadow-sm rounded-4"><div class="card-body p-4 p-lg-5"><p class="text-secondary mb-3">In today''s manufacturing landscape, CNC milling machines stand as the undisputed champions of precision engineering. These computer-controlled powerhouses have transformed raw materials into complex components with accuracy measured in microns. Unlike their manual predecessors, modern CNC mills combine advanced software with mechanical excellence to achieve results that push the boundaries of what''s mechanically possible.</p><figure class="mb-4"><img class="img-fluid rounded-4 shadow-sm border" src="https://example.com/cnc-mill-in-action.jpg" alt="High-precision CNC milling machine creating aerospace components" loading="lazy"><figcaption class="small text-secondary mt-2">High-precision CNC milling machine creating aerospace components</figcaption></figure><p class="text-secondary mb-3">The true revolution of CNC milling lies in its digital nature. By converting CAD designs into precise machine movements, these systems eliminate human error while enabling geometries that would challenge even the most skilled machinists. From medical implants to satellite components, CNC mills have become the backbone of industries where precision is non-negotiable.</p></div></div></div></div></section></div></section>'
+      summary: ''
+      format: full_html
+      embed_entities: {  }
