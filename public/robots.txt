@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://salespeare.com/sitemap-index.xml
